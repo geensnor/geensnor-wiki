@@ -55,3 +55,8 @@ plugins:
 #   - vendor/ruby/
 
 theme: just-the-docs
+
+# Aux links for the upper right navigation
+aux_links:
+  "geensnor.nl":
+    - "http://www.geensnor.nl"
