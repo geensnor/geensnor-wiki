@@ -8,6 +8,10 @@ parent: Raspberry Pi
 
 Eerder verschenen op [geensnor.nl](https://geensnor.netlify.app/pi-hole-voor-beginners/)
 
+Inhoud:
+* TOC
+{:toc}
+
 [Pi-hole](https://pi-hole.net/) is een applicatie die internetadvertenties en trackers blokkeert op je thuisnetwerk. Pi-hole kun je op allerlei manieren installeren en gebruiken. Hieronder leg ik een (relatief..) eenvoudige manier uit en laat ik zien wat je ervoor moet kopen. Als je Pi-hole eenmaal hebt geconfigureerd, worden advertenties op al je apparaten in huis automatisch geblokkeerd.
 
 ![pi hole logo](https://repository-images.githubusercontent.com/20619036/d86b7900-610a-11e9-811b-100767c1714e)
