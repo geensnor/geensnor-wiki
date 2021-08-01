@@ -5,6 +5,8 @@ parent: Tips
 
 
 
+# Fiets tips
+
 Racefiets of gewone fiets.  
 
 | Wat                                | Naam                                                 | URL                                                          | Toelichting                                                  |
