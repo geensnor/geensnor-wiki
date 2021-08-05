@@ -14,4 +14,4 @@ Dan krijg je deze error
 `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`
 
 Dan moet je even dit doen
-`ssh-keygen -R <ip>`
+`ssh-keygen -R <ip van het apparaat waar je naartoe wil ssh-en>`
