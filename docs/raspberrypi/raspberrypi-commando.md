@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Commando's
+title: PI cheatsheet
 parent: Raspberry Pi
 ---
 
