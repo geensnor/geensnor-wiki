@@ -10,4 +10,4 @@ Klik op de onderstaande knop om je aan te melden voor deze nieuwsbrief
 
 [aanmelden nieuwsbrief](https://www.getrevue.co/profile/geensnor){: .btn .btn-geensnor }
 
-[eerdere editiese](https://www.getrevue.co/profile/geensnor#archive)
+[eerdere edities](https://www.getrevue.co/profile/geensnor#archive)
