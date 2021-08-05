@@ -14,7 +14,8 @@ Niet allemaal puur Raspberry Pi specifiek
 |-----|------------------|
 |Controleren welke DNS server de Raspberry Pi heeft gekregen|`sudo nano /etc/resolv.conf`|
 |Config menu Raspberry Pi starten|`sudo raspi-config`|
-|Hostname en IP adres van PI bekijken|`ifconfig`|
+|IP adres van PI bekijken|`ifconfig`|
+|Hostname van PI bekijken|`Hostname`|
 |Tekstbestand aanpassen|`nano <locatie/bestand>` eventueel met Sudo voor rechten|
 |Commando uitvoeren met voldoende rechten|`sudo <command>`
 
