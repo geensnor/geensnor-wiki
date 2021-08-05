@@ -14,13 +14,16 @@ Niet allemaal puur Raspberry Pi specifiek
 |-----|------------------|
 |Controleren welke DNS server de Raspberry Pi heeft gekregen|`sudo nano /etc/resolv.conf`|
 |Config menu Raspberry Pi starten|`sudo raspi-config`|
+|Hostname en IP adres van PI bekijken|`hostname -I`|
+|Tekstbestand aanpassen|`nano <locatie/bestand>` eventueel met Sudo voor rechten|
+|Commando uitvoeren met voldoende rechten|`sudo <command>`
 
-## Updaten 
+
+## Updaten
 
 |Wat|Commando|
 |-----|------------------|
-|Update raspbian|`sudo apt-get update`|
-|Upgrade raspbian|`sudo apt-get upgrade`|
-|Dist upgrade|`sudo apt-get dist-upgrade`|
+|Update and upgrade raspbian|`sudo apt-get update && sudo apt-get upgrade`|
+|Dist. upgrade|`sudo apt-get dist-upgrade`|
 |Firmware update|`sudo apt-get install rpi-update` en vervolgens `sudo rpi-update`|
-
+|Pi-hole updaten|`pihole -up`|
