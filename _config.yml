@@ -65,3 +65,5 @@ defaults:
       path: "docs"
     values:
       layout: "default"
+
+style: compressed
