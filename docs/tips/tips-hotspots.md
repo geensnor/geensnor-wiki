@@ -1,9 +1,9 @@
 ---
-title: Advies
+title: Hotspots
 parent: Tips
 ---
 
-# Geensnor adviseert
+# Hotspots
 
 Sinds jaar en dag houden we een kaart bij waarop de beste restaurants, kroegen, trailerhellingen en koffietentjes staan. Ook behoeden we je voor teleurstellingen (doodshoofdjes) op plaatsen waar wij achteraf ook liever niet waren geweest.
 
