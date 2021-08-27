@@ -1,14 +1,10 @@
 ---
 layout: default
-title: Markdown cheatsheet
-parent: lifehacks
+title: Mermaid cheatsheet
+parent: markdown
 ---
 
-# Markdown cheatsheet
-
-## Basis
-
-tbd
+# Mermaid cheatsheet
 
 ## Flowcharts met mermaid
 
