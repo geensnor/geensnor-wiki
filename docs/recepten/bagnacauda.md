@@ -21,7 +21,6 @@ recipeCategory: voorgerecht
 - 1 halve bos bladpeterselie
 - 50g boter
 
-
 ## Bereiding
 
 1. Verwarm de oven voor op 220 graden.

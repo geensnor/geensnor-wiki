@@ -26,6 +26,6 @@ recipeYield: 2
 
 1. Snij de komkommer, cherrytomaatjes en avocado in stukken alsof je ze in een wrap gaat doen, en doe ze in bakjes.
 2. Snij de rode ui en doe er een beetje water en witte azijn bij.
-3. Doe de citroensap, yoghurt, mayonaise, paprikapoeder en knoflook door elkaar heen. In de verhoudingen dat je het zelf prima vindt. 
+3. Doe de citroensap, yoghurt, mayonaise, paprikapoeder en knoflook door elkaar heen. In de verhoudingen dat je het zelf prima vindt.
 4. Bak de kipschnitzels en warm de wraps op.
 5. Zet de hele handel op tafel en zet je eigen wrap in elkaar.
