@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PI problemen
+title: Pi problemen
 parent: Raspberry Pi
 ---
 
