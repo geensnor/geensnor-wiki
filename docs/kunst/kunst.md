@@ -1,6 +1,6 @@
 ---
 layout: default
-title: kunst
+title: Kunst
 has_children: true
 ---
 

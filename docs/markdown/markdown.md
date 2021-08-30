@@ -1,6 +1,6 @@
 ---
 layout: default
-title: markdown
+title: Markdown
 has_children: true
 
 ---
