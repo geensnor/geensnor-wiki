@@ -1,9 +1,9 @@
 ---
-title: Toffe kunstenaars
+title: Toffe en betaalbare kunst
 parent: kunst
 ---
 
-# Toffe kunstenaars
+# Toffe en betaalbare kunst
 
 |Wie|Wat|Voorbeeld|
 |---|--------|-----------|
