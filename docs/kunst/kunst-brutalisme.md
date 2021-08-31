@@ -15,8 +15,15 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 
 
+![brut in de oekraine](https://hiddenarchitecture.net/wp-content/uploads/2019/04/Druzhba-sanatorium_04.jpg)
+
 ## Interessante links
 
 - [Twitter: Brutalism101](https://twitter.com/Brutalism101)
 - [Twitter: This Brutal House](https://twitter.com/BrutalHouse) Ook posters e.d.
 - [Paar voorbeelden op re-thinkingthefuture.com](https://www.re-thinkingthefuture.com/architects-lounge/a335-10-prime-examples-of-brutalist-architecture/)
+
+
+
+
+
