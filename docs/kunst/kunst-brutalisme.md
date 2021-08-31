@@ -15,7 +15,7 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 
 
-![brut in de oekraine](https://hiddenarchitecture.net/wp-content/uploads/2019/04/Druzhba-sanatorium_04.jpg)
+![brutalism aan het strand](https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanatorium_%22Kurpaty%22.JPG)
 
 ## Interessante links
 
