@@ -10,7 +10,7 @@ Overzicht van schoenen- en kledingmerken die fatsoenlijke mooie dingen maken.
 |Merk|Waarom|Duurzaam|
 |----|------|--------|
 |[All birds](https://www.allbirds.eu/)|Obama heeft ze ook. Fijne lichtgewicht sneakers, helemaal duurzaam aan alle kanten. Veelal gemaakt van merino wol en ze kosten niet al te duur.|Ja|
-
+|[Clae](https://clae.eu/)|Sneakers die lekker lopen en aardig lang meegaan. Niet helemaal duidelijk of Obama ze heeft. Check even de [outlet](https://clae.eu/collections/men-outlet) op de website voor wat korting|
 
 ## Kleding
 
