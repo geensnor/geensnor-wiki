@@ -9,7 +9,7 @@ parent: Inpaklijst
 
 - [ ] Tandenborstel
 - [ ] Tandpasta
-- [ ] Wax
+- [ ] Wax of gel
 - [ ] Deodorant
 - [ ] Douchgel
 - [ ] Zonnebrand
