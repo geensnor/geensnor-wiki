@@ -1,6 +1,5 @@
 ---
 title: Games
-parent: Tips
 ---
 
 # Game tips

@@ -1,6 +1,5 @@
 ---
 title: Software
-parent: Tips
 ---
 
 # Software
