@@ -4,10 +4,7 @@ title: Pi cheatsheet
 parent: Raspberry Pi
 ---
 
-# Pi cheatsheet
-
 Niet allemaal puur Raspberry Pi specifiek
-
 
 ## Algemene handige commando's
 
