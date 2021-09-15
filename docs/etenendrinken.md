@@ -1,6 +1,5 @@
 ---
 title: Eten en drinken
-parent: Tips
 ---
 
 # Eten en drinken

@@ -1,6 +1,5 @@
 ---
 title: Fiets
-parent: Tips
 ---
 
 # Fiets tips

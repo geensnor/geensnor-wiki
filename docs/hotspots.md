@@ -1,6 +1,5 @@
 ---
 title: Hotspots
-parent: Tips
 ---
 
 # Hotspots

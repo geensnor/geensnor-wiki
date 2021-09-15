@@ -1,6 +1,5 @@
 ---
 title: Web tools
-parent: Tips
 ---
 
 # Web tools
