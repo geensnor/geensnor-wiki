@@ -16,7 +16,12 @@ Niet allemaal puur Raspberry Pi specifiek
 |IP adres van PI bekijken|`ifconfig`|
 |Hostname van PI bekijken|`Hostname`|
 |Tekstbestand aanpassen|`nano <locatie/bestand>` eventueel met Sudo voor rechten|
-|Commando uitvoeren met voldoende rechten|`sudo <command>`
+|Commando uitvoeren met extra rechten|`sudo <command>`|
+|Message buffer van de kernel tonen (jaja). Als je Pi te weinig spanning heeft, zie je dat daar staan|`dmesg`|
+|Directory weggooien met alles erin, zonder te vragen|`rm -r -f <directory>`|
+|Uitgebreide lijst van onderdelen in een directory. Ook verborgen directories met een . ervoor bijvoorbeeld|`ls -al`| 
+
+
 
 ### Updaten van je Pi
 
