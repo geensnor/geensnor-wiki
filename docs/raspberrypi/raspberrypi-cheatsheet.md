@@ -19,9 +19,8 @@ Niet allemaal puur Raspberry Pi specifiek
 |Commando uitvoeren met extra rechten|`sudo <command>`|
 |Message buffer van de kernel tonen (jaja). Als je Pi bijvoorbeeld te weinig spanning heeft, zie je dat daar staan|`dmesg`|
 |Directory weggooien met alles erin, zonder te vragen|`rm -r -f <directory>`|
-|Uitgebreide lijst van onderdelen in een directory. Ook verborgen directories met een . ervoor bijvoorbeeld|`ls -al`| 
+|Uitgebreide lijst van onderdelen in een directory. Ook verborgen directories met een . ervoor bijvoorbeeld|`ls -al`|
 |Package weggooien|`sudo apt-get purge samba`|
-
 
 ### Updaten van je Pi
 
