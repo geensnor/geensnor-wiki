@@ -3,7 +3,7 @@ layout: default
 title: Facebook schandalen
 ---
 
-# Facebook schandalen
+## Facebook schandalen
 
 Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe schandalen in de media komen. Telkens is er even ophef, maar ze verdwijnen ook wel snel naar de achtergrond. De lijst hieronder is een poging om deze schandalen te verzamelen zodat er een gruwelijk overzicht van Facebook ellende ontstaat.
 
