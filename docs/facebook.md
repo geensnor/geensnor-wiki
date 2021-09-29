@@ -9,6 +9,7 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|september 2021|Vlak voor de presidentsverkiezingen in de VS van 2020, hadden trollen een bereik van 140 miljoen amerikanen per maand|[MIT Technology Review](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)|
 |september 2021|Beroemdheden worden minder streng gecontroleerd dan gewone gebruikers door XCheck programma.|[The Verge](https://www.theverge.com/2021/9/13/22671565/facebook-xcheck-moderation-system-high-profile-exemptions)|
 |september 2021|Facebook weet dat Instagram schade toebrengt aan meisjes|[Wallstreet Journal](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739?mod=article_inline)|
 |september 2021|Facebook reageert niet voldoende op mensenhandel en drugshandel|[Wallstreet Journal](https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953?mod=article_inline)|
