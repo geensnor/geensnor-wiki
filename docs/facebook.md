@@ -3,12 +3,13 @@ layout: default
 title: Facebook schandalen
 ---
 
-## Facebook schandalen
+# Facebook schandalen
 
 Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe schandalen in de media komen. Telkens is er even ophef, maar ze verdwijnen ook wel snel naar de achtergrond. De lijst hieronder is een poging om deze schandalen te verzamelen zodat er een gruwelijk overzicht van Facebook ellende ontstaat.
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|september 2021|Facebook probeerde het algoritme voor de newsfeed aan te passen zodat deze "gezonder" zou worden voor gebruikers. In plaats daarvan werd iedereen juist bozer. Mark Zuckerberg wilde de aanpassing niet terugdraaien omdat er wel meer "engagement" was, wat meer geld op leverde|[Wallstreet Journal](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)|
 |september 2021|Vlak voor de presidentsverkiezingen in de VS van 2020, hadden trollen een bereik van 140 miljoen amerikanen per maand|[MIT Technology Review](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)|
 |september 2021|Beroemdheden worden minder streng gecontroleerd dan gewone gebruikers door XCheck programma.|[The Verge](https://www.theverge.com/2021/9/13/22671565/facebook-xcheck-moderation-system-high-profile-exemptions)|
 |september 2021|Facebook weet dat Instagram schade toebrengt aan meisjes en moet uitleg geven in de senaat.|[Wallstreet Journal](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739?mod=article_inline) [NRC](https://www.nrc.nl/nieuws/2021/09/29/facebook-naar-amerikaanse-senaat-vanwege-giftig-effect-op-welzijn-kinderen-a4060117)|
