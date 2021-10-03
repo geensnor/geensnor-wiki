@@ -17,6 +17,14 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 ![brutalism aan het strand](https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanatorium_%22Kurpaty%22.JPG)
 
+
+
+## In Nederland
+
+"Fan van de bebouwde omgeving" Martjan Kuit geeft op z'n [Twitter account](https://twitter.com/martjankuit) ook aardig wat voorbeelden van Brutalisme in Nederland. Hij heeft ook dat NRC artikel hieronder samengesteld.
+
+
+
 ## Interessante links
 
 - [Twitter: Brutalism101](https://twitter.com/Brutalism101)
