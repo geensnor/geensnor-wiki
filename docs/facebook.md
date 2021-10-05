@@ -9,6 +9,7 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|oktober 2021|Data van 1,5 miljard Facebook gebruikers te koop aangeboden op forum|[Privacy Affairs](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/)|
 |oktober 2021|Klokkenluider zegt dat Facebook de Capitoolrellen heeft gevoed|[NOS](https://nos.nl/artikel/2400301-klokkenluider-zegt-dat-facebook-capitoolrellen-heeft-gevoed)|
 |september 2021|Facebook probeerde het algoritme voor de newsfeed aan te passen zodat deze "gezonder" zou worden voor gebruikers. In plaats daarvan werd iedereen juist bozer. Mark Zuckerberg wilde de aanpassing niet terugdraaien omdat er wel meer "engagement" was, wat meer geld op leverde|[Wallstreet Journal](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)|
 |september 2021|Vlak voor de presidentsverkiezingen in de VS van 2020, hadden trollen een bereik van 140 miljoen amerikanen per maand|[MIT Technology Review](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)|
