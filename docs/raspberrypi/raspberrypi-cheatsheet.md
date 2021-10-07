@@ -24,9 +24,10 @@ Niet allemaal puur Raspberry Pi specifiek
 
 ### Updaten van je Pi
 
-|Wat|Commando|
-|-----|------------------|
-|Update and upgrade raspbian|`sudo apt-get update && sudo apt-get upgrade`|
-|Dist. upgrade|`sudo apt-get dist-upgrade`|
-|Firmware update|`sudo apt-get install rpi-update` en vervolgens `sudo rpi-update`|
-|Pi-hole updaten|`pihole -up`|
+|Wat|Commando|Opmerkingen|
+|-----|------------------|------------|
+|Update and upgrade raspbian|`sudo apt-get update && sudo apt-get upgrade`|-|
+|Updaten na grotere wijzigingen|`sudo apt-get update --allow-releaseinfo-change`|Te gebruiken als er grotere wijzigingen in repo's zijn waar de update over gaat zeuren, denk aan major releases en bij de foutcode `This must be accepted explicitly before updates for this repository can be applied. See apt-secure(8) manpage for details.`|
+|Dist. upgrade|`sudo apt-get dist-upgrade`|Gebruik je eigenlijk nooit|
+|Firmware update|`sudo apt-get install rpi-update` en vervolgens `sudo rpi-update`|Gebruik je ook bijna nooit|
+|Pi-hole updaten|`pihole -up`|Lekker snel eenvoudig je pihole updaten|
