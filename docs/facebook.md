@@ -9,6 +9,7 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|oktober 2021|Facebook dwong maker van automatische ontvolgtool Unfollow Everything te stoppen en banned ontwikkelaar ook maar meteen|[tweakers](https://tweakers.net/nieuws/187880/facebook-dwong-maker-van-automatische-ontvolgtool-unfollow-everything-te-stoppen.html)|
 |oktober 2021|Data van 1,5 miljard Facebook gebruikers te koop aangeboden op forum|[Privacy Affairs](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/)|
 |oktober 2021|Klokkenluider zegt dat Facebook de Capitoolrellen heeft gevoed|[NOS](https://nos.nl/artikel/2400301-klokkenluider-zegt-dat-facebook-capitoolrellen-heeft-gevoed)|
 |september 2021|Facebook probeerde het algoritme voor de newsfeed aan te passen zodat deze "gezonder" zou worden voor gebruikers. In plaats daarvan werd iedereen juist bozer. Mark Zuckerberg wilde de aanpassing niet terugdraaien omdat er wel meer "engagement" was, wat meer geld op leverde|[Wallstreet Journal](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215)|
