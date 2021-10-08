@@ -25,6 +25,7 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 |augustus 2021|Facebook "Transparency report" blijkt niet transparant te zijn|[The Verge](https://www.theverge.com/2021/8/22/22636508/facebook-releases-shelved-content-transparency-report-content-coronavirus)|
 |augustus 2021|Facebook verbant academici die onderzoek doen naar politieke advertenties|[The Verge](https://www.theverge.com/2021/8/4/22609020/facebook-bans-academic-researchers-ad-transparency-misinformation-nyu-ad-observatory-plug-in)|
 |april 2021|Facebook verbergt per ongeluk kritiek op de premier van India|[The Verge](https://www.theverge.com/2021/4/28/22408334/facebook-hides-modi-resign-posts-restore-investigation)|
+|december 2020|Facebook moet Max Schrems 500 euro boete betalen omdat ze geen volledig inzicht gaven in z'n data.|[Tweakers](https://tweakers.net/nieuws/176202/facebook-moet-privacyactivist-schrems-inzicht-in-data-geven-en-500-euro-betalen.html)|
 |februari 2020|Facebook blokkeert per ongeluk een hele taal|[The Verge](https://www.theverge.com/2020/2/11/21132042/facebook-users-myanmar-blackout-jinghpaw-language-censorship-kachin)
 |augustus 2018|Facebook greep niet in tijdens de genocide op Rohingya in Myanmar|[Reuters](https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/)|
 |maart 2018|Facebook lekt informatie van 87 miljoen gebruikers aan Cambridge Analytica|[The Verge](https://www.theverge.com/2018/4/10/17165130/facebook-cambridge-analytica-scandal)
