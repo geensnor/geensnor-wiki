@@ -1,6 +1,5 @@
 ---
 title: Overig
-parent: Tips
 ---
 
 # Overig
