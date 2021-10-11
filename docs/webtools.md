@@ -18,3 +18,15 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |Diagrammen maken|[draw.io](https://www.draw.io)|Flowtje, UMLeltje, serverruimte indelen? Draw.io kan het allemaal. Heeft ook een desktop versie|
 |Strava synchroniseren|[tapiriik.com](https://tapiriik.com/)|Alle fietsrondes staan natuurlijk in Strava, maar het is altijd een prettig idee om ze ook zelf te hebben. Tapiriik synct ze met allerlei diensten waaronder Dropbox.|
 |Markdown editor|[writemd.xyz](https://writemd.xyz/d/60efda973be295623)|Online Makrdown editor. Geen account nodig, delen via een URL, geen kermis.|
+
+
+
+## Rechtenvrije media
+
+| URL | Toelichting  |
+| ------------ | ---- |
+| [usplash.com](https://unsplash.com)     | Rechtenvrije foto's  |
+|[commons.wikimedia.org](https://commons.wikimedia.org)| Rechtenvrije foto's en video's van Wikimedia|
+|[pixabay.com](https://pixabay.com/nl/)|Nog wat rechtenvrije foto's|
+|[vektors.pro](https://www.vektors.pro/)|Gratis vectorafbeeldingen|
+
