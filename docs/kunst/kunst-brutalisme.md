@@ -28,9 +28,16 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 ## Interessante links
 
 - [Twitter: Brutalism101](https://twitter.com/Brutalism101)
+
 - [Twitter: This Brutal House](https://twitter.com/BrutalHouse) Ook posters e.d.
+
 - [Paar voorbeelden op re-thinkingthefuture.com](https://www.re-thinkingthefuture.com/architects-lounge/a335-10-prime-examples-of-brutalist-architecture/)
+
 - [Top 10 brutalisme in Nederland in NRC](https://www.nrc.nl/nieuws/2021/09/29/39233487-a4058939)
+
+- De Volkskrant 25 juli 2021: [Van brutalisme moet je leren houden – maar dan krijg je veel liefde terug](https://www.volkskrant.nl/cultuur-media/lomp-ruig-en-van-keihard-beton-van-brutalisme-moet-je-leren-houden-maar-dan-krijg-je-veel-liefde-terug~b3ce9b22/)
+
+  
 
 
 
