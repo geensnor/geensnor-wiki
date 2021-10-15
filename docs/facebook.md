@@ -9,6 +9,7 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|oktober 2021|Meeste Canadezen denken dat Facebook slecht is voor je geestelijke gezondheid|[The Global Mail](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
 |oktober 2021|Facebook werkt mee aan verkoop van beschermde stukken tropisch regenwoud|[The Verge](https://www.theverge.com/2021/10/8/22717032/facebook-marketplace-selling-amazon-land-conservation)|
 |oktober 2021|Facebook dwong maker van automatische ontvolgtool Unfollow Everything te stoppen en banned ontwikkelaar ook maar meteen.|[Tweakers](https://tweakers.net/nieuws/187880/facebook-dwong-maker-van-automatische-ontvolgtool-unfollow-everything-te-stoppen.html)|
 |oktober 2021|Data van 1,5 miljard Facebook gebruikers te koop aangeboden op forum|[Privacy Affairs](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/)|
