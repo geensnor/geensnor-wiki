@@ -29,3 +29,8 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "just-the-docs"
+
+# Last modified plugin: https://github.com/gjtorikian/jekyll-last-modified-at
+group :jekyll_plugins do
+  gem "jekyll-last-modified-at"
+end
