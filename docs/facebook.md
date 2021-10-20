@@ -9,7 +9,8 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
-|oktober 2021|Facebook betaalt 12,3 miljoen euro om vervolging voor disciminatie van werkzoekende te voorkomen.|[nu.nl](https://www.nu.nl/economie/6163176/facebook-treft-miljoenenschikking-met-overheid-vs-om-vermeende-discriminatie.html)
+|oktober 2021|Facebook krijgt boete van 59,2 miljoen euro van Britse mededingingswaakhond CMA na onvoldoende rapportage na Gihpy overname|[Tweakers](https://tweakers.net/nieuws/188396/vk-geeft-facebook-miljoenenboete-om-gebrek-aan-communicatie-na-giphy-overname.html)|
+|oktober 2021|Facebook betaalt 12,3 miljoen euro om vervolging voor disciminatie van werkzoekende te voorkomen.|[nu.nl](https://www.nu.nl/economie/6163176/facebook-treft-miljoenenschikking-met-overheid-vs-om-vermeende-discriminatie.html)|
 |oktober 2021|Meeste Canadezen denken dat Facebook slecht is voor je geestelijke gezondheid|[The Global Mail](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
 |oktober 2021|Facebook werkt mee aan verkoop van beschermde stukken tropisch regenwoud|[The Verge](https://www.theverge.com/2021/10/8/22717032/facebook-marketplace-selling-amazon-land-conservation)|
 |oktober 2021|Facebook dwong maker van automatische ontvolgtool Unfollow Everything te stoppen en banned ontwikkelaar ook maar meteen.|[Tweakers](https://tweakers.net/nieuws/187880/facebook-dwong-maker-van-automatische-ontvolgtool-unfollow-everything-te-stoppen.html)|
