@@ -24,4 +24,3 @@ Overzicht van schoenen- en kledingmerken die fatsoenelijke mooie dingen maken.
 |[Ben Sherman](https://www.bensherman.com/)|Britse design kleding, tikkie dandy. Aardige polo's en jassen. Hun pakken zijn super mooi maar lastig verkrijgbaar. De webshop heeft vaak mooie aanbiedingen, anders wel duur|Nee|
 |[Sissy boy](https://www.sissy-boy.com/)|Nederlands merk van meubels, vrouwendingen, vrouwenkleren maar ook herenkleding. Beetje hippig maar ook wel lekker simpel. |Nee|
 |[Patagonia](https://www.patagonia.com/home/)|Outdoormerk. Super duurzaam, hoop recycled materiaal. Maar ook hele fijne waterdichte jassen die mooi zijn gemaakt. Alleen snoei duur dus je koopt dit in de uitverkoop|Ja|
-

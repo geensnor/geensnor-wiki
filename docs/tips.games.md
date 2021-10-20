@@ -24,4 +24,3 @@ title: Games
 |Red Alert achtige RTS game|[openra.net](https://www.openra.net)|
 |Total Anahilation achtige RTS game. Zie er erg uitgebreid en netjes uit. Helaas geen Mac versie|[beyondallreason.info](https://www.beyondallreason.info)|
 |Niet echt een game, maar een OSS game engine voor RTS games.. Op de site zijn zie je verschillende games die met deze engine zijn gemaakt.|[sprintrts.com](https://springrts.com)|
-
