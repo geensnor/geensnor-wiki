@@ -1,6 +1,5 @@
 ---
 title: Lifehacks
-parent: Tips
 ---
 
 # Lifehacks (geensnor uit zalk)
