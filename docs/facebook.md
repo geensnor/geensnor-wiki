@@ -9,6 +9,7 @@ Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe s
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|oktober 2021|Facebook heeft z'n eigen Oversight Board niet ingelicht over het programma waarin beroemdheden werden voorgetrokken (zie ander schandaal)|[CNN](https://edition.cnn.com/2021/10/21/tech/facebook-cross-check-oversight-board/index.html)
 |oktober 2021|Facebook krijgt boete van 59,2 miljoen euro van Britse mededingingswaakhond CMA na onvoldoende rapportage na Gihpy overname|[Tweakers](https://tweakers.net/nieuws/188396/vk-geeft-facebook-miljoenenboete-om-gebrek-aan-communicatie-na-giphy-overname.html)|
 |oktober 2021|Facebook betaalt 12,3 miljoen euro om vervolging voor disciminatie van werkzoekende te voorkomen.|[nu.nl](https://www.nu.nl/economie/6163176/facebook-treft-miljoenenschikking-met-overheid-vs-om-vermeende-discriminatie.html)|
 |oktober 2021|Meeste Canadezen denken dat Facebook slecht is voor je geestelijke gezondheid|[The Global Mail](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
