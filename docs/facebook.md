@@ -3,12 +3,15 @@ layout: default
 title: Facebook schandalen
 ---
 
-# Facebook schandalen
+# Facebook en Meta schandalen
 
-Facebook is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe schandalen in de media komen. Telkens is er even ophef, maar ze verdwijnen ook wel snel naar de achtergrond. De lijst hieronder is een poging om deze schandalen te verzamelen zodat er een gruwelijk overzicht van Facebook ellende ontstaat.
+Facebook (sinds oktober 2021: Meta) is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe schandalen in de media komen. Telkens is er even ophef, maar ze verdwijnen ook wel snel naar de achtergrond. De lijst hieronder is een poging om deze schandalen te verzamelen zodat er een gruwelijk overzicht van Facebook ellende ontstaat.
+
+Mark Zuckerberg is overigens doodsbang geworden van dit overzicht. Nadat het een maand online stond, heeft hij de naam van z'n bedrijf gewijzigd in een poging om onze bezoekers om de (digitale) tuin te leiden. We zitten er gelukkig bovenop en gebruiken nu ook de nieuwe naam: Meta.
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|oktober 2021|Facebook blokkeerde meer dan twee keer zoveel berichten nadat de Vietnameese regering aan Mark vroeg om wat meer censuur toe te passen|[Rolling Stone](https://www.rollingstone.com/politics/politics-news/facebook-vietnam-censorship-1247323/)|
 |oktober 2021|Facebook heeft z'n eigen Oversight Board niet ingelicht over het programma waarin beroemdheden werden voorgetrokken (zie ander schandaal)|[CNN](https://edition.cnn.com/2021/10/21/tech/facebook-cross-check-oversight-board/index.html)
 |oktober 2021|Facebook krijgt boete van 59,2 miljoen euro van Britse mededingingswaakhond CMA na onvoldoende rapportage na Gihpy overname|[Tweakers](https://tweakers.net/nieuws/188396/vk-geeft-facebook-miljoenenboete-om-gebrek-aan-communicatie-na-giphy-overname.html)|
 |oktober 2021|Facebook betaalt 12,3 miljoen euro om vervolging voor disciminatie van werkzoekende te voorkomen.|[nu.nl](https://www.nu.nl/economie/6163176/facebook-treft-miljoenenschikking-met-overheid-vs-om-vermeende-discriminatie.html)|
