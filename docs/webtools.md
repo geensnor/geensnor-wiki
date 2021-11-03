@@ -10,7 +10,8 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |--------|---------|-------------------|
 |Planning poker|[scrumpoker-online.org](https://www.scrumpoker-online.org/)|Planning poker tool voor bijvoorbeeld Scrum|
 |White board|[witeboard.com](https://witeboard.com)|Meteen tekenen. Handig op een groot touchscreen lijkt me.|
-|Foto's aanpassen|[squoosh.app](https://squoosh.app/)|Afmeting, grote, compressie. Alles lekker vlot aanpassen. Door Google.
+|Foto's aanpassen|[squoosh.app](https://squoosh.app/)|Afmeting, grote, compressie. Alles lekker vlot aanpassen. Door Google.|
+|Objecten uit foto's verwijderen|[cleanup.pictures](https://cleanup.pictures/)|Online versie van Photoshops retoucheerpenseel. Handig voor als er rommel op je foto staat.|
 |Online foto bewerking|[pqina.nl](https://pqina.nl/doka/image-editor/)|Photoshop te duur? Waarschijnlijk kun je het hier ook wel mee doen.|
 |P2P Bestanden en tekst delen|[webdrop.space](https://webdrop.space/)|Soms moet je wat delen tussen verschillende apparaten die ook nog eens verschillende OS-en hebben. Werkt op je LAN zonder configuratie. Wel de browser open houden want het werkt zonder cloud!|
 |Bestanden delen|[wormhole.app](https://wormhole.app/)|Eenvoudig bestanden delen zonder gedoe. Privacy voorop.|
