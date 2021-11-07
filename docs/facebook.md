@@ -11,7 +11,8 @@ Mark Zuckerberg is overigens doodsbang geworden van dit overzicht. Nadat het een
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
-|november 2021|Facebook heeft per ongeluk een fanpage geverifieerd die zich voordeed als Elon Musk|[The Verge](https://www.theverge.com/2021/11/1/22757771/meta-facebook-elon-musk-verified-fan-page-posing)|
+|november 2021|Facebook weet dat 1 op de 8 gebruikers van Facebook leidt aan dwangmatig gebruik van het platform. Het interne team wat dat concludeerde is in 2019 opgeheven|[The Verge](https://www.theverge.com/2021/11/6/22766935/facebook-meta-aware-problematic-use-addiction-wellbeing)|
+|november 2021|Facebook heeft per ongeluk een fanpage geverifieerd (blauw vinkje) die zich voordeed als Elon Musk|[The Verge](https://www.theverge.com/2021/11/1/22757771/meta-facebook-elon-musk-verified-fan-page-posing)|
 |oktober 2021|Facebook blokkeerde meer dan twee keer zoveel berichten nadat de Vietnameese regering aan Mark vroeg om wat meer censuur toe te passen|[Rolling Stone](https://www.rollingstone.com/politics/politics-news/facebook-vietnam-censorship-1247323/)|
 |oktober 2021|Facebook heeft z'n eigen Oversight Board niet ingelicht over het programma waarin beroemdheden werden voorgetrokken (zie ander schandaal)|[CNN](https://edition.cnn.com/2021/10/21/tech/facebook-cross-check-oversight-board/index.html)
 |oktober 2021|Facebook krijgt boete van 59,2 miljoen euro van Britse mededingingswaakhond CMA na onvoldoende rapportage na Gihpy overname|[Tweakers](https://tweakers.net/nieuws/188396/vk-geeft-facebook-miljoenenboete-om-gebrek-aan-communicatie-na-giphy-overname.html)|
