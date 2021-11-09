@@ -19,7 +19,7 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |Schetsen in de browser|[excalidraw.com](https://excalidraw.com/)|Handig als je snel iets wil tekenen, maar geen papier bij de hand hebt.|
 |Strava synchroniseren|[tapiriik.com](https://tapiriik.com/)|Alle fietsrondes staan natuurlijk in Strava, maar het is altijd een prettig idee om ze ook zelf te hebben. Tapiriik synct ze met allerlei diensten waaronder Dropbox.|
 |Markdown editor|[writemd.xyz](https://writemd.xyz/d/60efda973be295623)|Online Makrdown editor. Geen account nodig, delen via een URL, geen kermis.|
-|Jitsi|Web|[jitsi.org](https://jitsi.org/)|Het aanbod is reuze, maar aan alle video conferencing opties kleven wel wat nadelen. Jitsi lijkt tot nu toe de beste. Meerdere platformen, soepeltjes en vanuit de browser. En zonder registratie!|
+|Jitsi|[jitsi.org](https://jitsi.org/)|Het aanbod is reuze, maar aan alle video conferencing opties kleven wel wat nadelen. Jitsi lijkt tot nu toe de beste. Meerdere platformen, soepeltjes en vanuit de browser. En zonder registratie!|
 
 ## Rechtenvrije media
 
