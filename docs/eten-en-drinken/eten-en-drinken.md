@@ -1,5 +1,6 @@
 ---
 title: Eten en drinken
+has_children: true
 ---
 
 # Eten en drinken
