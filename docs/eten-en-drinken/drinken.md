@@ -15,7 +15,7 @@ parent: Eten en drinken
 
 | Naam          | Druif       | URL        | Toelichting             |
 | ------------ | ---------- | ---------- | ----------------------- |
-| **Jacky et pascal preys** methode traditionelle crémant | Chenin & Chardonnay | [url](https://www.vleck.nl/product/jacky-et-pascal-preys-methode-traditionelle-cremant/) | Heerlijke mousserende Crémant. Feestelijk en weer eens wat anders dan die eeuwige Champagne of Cava. *"Die berg vuursteen waar ze op wonen spat uit het glas. Aanrader voor elke dag, voor wie wel bubbels opentrekt op een gewone dag en voor dat zou moeten maar niet durft…."*
+| **Jacky et pascal preys** methode traditionelle crémant | Chenin & Chardonnay | [url](https://www.vleck.nl/product/jacky-et-pascal-preys-methode-traditionelle-cremant/) | Heerlijke mousserende Crémant. Feestelijk en weer eens wat anders dan die eeuwige Champagne of Cava. Heel bijzonder maar echt super lekker.*"Die berg vuursteen waar ze op wonen spat uit het glas. Aanrader voor elke dag, voor wie wel bubbels opentrekt op een gewone dag en voor dat zou moeten maar niet durft…."*
 
 ## Bier
 
