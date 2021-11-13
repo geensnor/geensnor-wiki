@@ -1,6 +1,6 @@
 ---
 title: Eten
-parent: eten-en-drinken
+parent: Eten en drinken
 ---
 
 # Eten
