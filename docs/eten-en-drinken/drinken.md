@@ -11,13 +11,14 @@ parent: Eten en drinken
 | ------------ | ---------- | ---------- | ----------------------- |
 | Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
 
-## Wijn 
+## Wijn
 
 ### Wit
 
-| Naam          | Druif       | URL        | Toelichting             |
-| ------------- | ----------- | ---------- | ----------------------- |
-|Il Poggiarello ‘Perticato Beatrice Quadri’ Malvasia|Malvasia|[wijnbeurs.nl](https://www.wijnbeurs.nl/il-poggiarello-perticato-beatrice-quadri-malvasia)|Beste witte wijn van Italië volgens Luca Maroni. Heerlijk fris. Tikje mineraal.|
+| Naam | Druif       |Land van herkomst| URL | Toelichting |
+| ------------- | ----------- | --------------- | ---|---|
+|**Il Poggiarello** ‘Perticato Beatrice Quadri’ Malvasia|Malvasia|Italië|[wijnbeurs.nl](https://www.wijnbeurs.nl/il-poggiarello-perticato-beatrice-quadri-malvasia)|Beste witte wijn van Italië volgens Luca Maroni. Heerlijk fris. Tikje mineraal.|
+|**Lista Negra** Premium Reserve Blend Branco 2018| arinto, chardonnay|Portugal|[grapedistrict](https://www.grapedistrict.nl/lista-negra-reserve.html)|Winnaar bij blindproeverij in het Parool waar ze lekkere wijn voor bij de hutspot zochten. Zal allemaal wel, maar ik vind het een super lekkere wijn met flink wat diepgang. Je proeft de eikenhouten rijping.|
 
 ### Mousserend
 
