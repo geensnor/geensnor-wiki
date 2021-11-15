@@ -1,4 +1,9 @@
 {
     "MD025": false,
-    "MD013": false
+    "MD013": false,
+    "no-inline-html": {
+        "allowed_elements": [
+            "iframe"
+        ]
+    }
 }
