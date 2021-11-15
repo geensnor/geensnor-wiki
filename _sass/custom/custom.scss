@@ -1,34 +1,40 @@
-@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap");
 
-.site-title{
-    color: #f15a24;
-    font-family: 'Zilla slab', serif;
+.site-title {
+  color: #f15a24;
+  font-family: "Zilla slab", serif;
 }
 
-.btn-geensnor{
-    background-color:#f15b24;
-    border: 0;
-    color:white;
+.btn-geensnor {
+  background-color: #f15b24;
+  border: 0;
+  color: white;
 }
 
 .btn-geensnor:hover {
-    background-color:#ad451f;
-    color:white;
+  background-color: #ad451f;
+  color: white;
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: 'Zilla slab', serif;
-    font-weight: 500;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Zilla slab", serif;
+  font-weight: 500;
 }
 
-th{
-    text-align: left;
-    color: #f15b24;
+th {
+  text-align: left;
+  color: #f15b24;
 }
 
-.table-wrapper{
-    box-shadow: none;
-    border: 1px solid #eeebee;
+.table-wrapper {
+  box-shadow: none;
+  border: 1px solid #eeebee;
 }
 
- 
+td {
+  vertical-align: baseline;
+}
