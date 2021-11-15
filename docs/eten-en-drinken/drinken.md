@@ -11,11 +11,18 @@ parent: Eten en drinken
 | ------------ | ---------- | ---------- | ----------------------- |
 | Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
 
-## Wijn - mousserend
+## Wijn 
+
+### Wit
+| Naam          | Druif       | URL        | Toelichting             |
+| ------------- | ----------- | ---------- | ----------------------- |
+|Il Poggiarello ‘Perticato Beatrice Quadri’ Malvasia|Malvasia|[wijnbeurs.nl](https://www.wijnbeurs.nl/il-poggiarello-perticato-beatrice-quadri-malvasia)|Beste witte wijn van Italië volgens Luca Maroni. Heerlijk fris. Tikje mineraal.|
+
+### Mousserend
 
 | Naam          | Druif       | URL        | Toelichting             |
 | ------------ | ---------- | ---------- | ----------------------- |
-| **Jacky et pascal preys** methode traditionelle crémant | Chenin & Chardonnay | [url](https://www.vleck.nl/product/jacky-et-pascal-preys-methode-traditionelle-cremant/) | Heerlijke mousserende Crémant. Feestelijk en weer eens wat anders dan die eeuwige Champagne of Cava. Heel bijzonder maar echt super lekker.*"Die berg vuursteen waar ze op wonen spat uit het glas. Aanrader voor elke dag, voor wie wel bubbels opentrekt op een gewone dag en voor dat zou moeten maar niet durft…."*
+| **Jacky et pascal preys** methode traditionelle crémant | Chenin & Chardonnay | [url](https://www.vleck.nl/product/jacky-et-pascal-preys-methode-traditionelle-cremant/) | Heerlijke mousserende Crémant. Feestelijk en weer eens wat anders dan die eeuwige Champagne of Cava. Heel bijzonder maar echt super lekker.*"Die berg vuursteen waar ze op wonen spat uit het glas. Aanrader voor elke dag, voor wie wel bubbels opentrekt op een gewone dag en voor dat zou moeten maar niet durft…."*|
 
 ## Bier
 
