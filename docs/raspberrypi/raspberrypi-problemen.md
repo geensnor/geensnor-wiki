@@ -8,7 +8,7 @@ parent: Raspberry Pi
 
 En hoe je ze op kan lossen...
 
-## Je SSH client verwacht op het betreffende IP adres een ander apparaat.
+## Je SSH client verwacht op het betreffende IP adres een ander apparaat
 
 Dan krijg je deze error
 `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`

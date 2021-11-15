@@ -3,9 +3,7 @@ title: Toiletspullen
 parent: Inpaklijst
 ---
 
-
-
-## Toiletspullen
+# Toiletspullen
 
 - [ ] Tandenborstel
 - [ ] Tandpasta
@@ -14,4 +12,3 @@ parent: Inpaklijst
 - [ ] Douchgel
 - [ ] Zonnebrand
 - [ ] Handdoeken
-
