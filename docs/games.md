@@ -13,7 +13,7 @@ title: Games
 |Als je ooit iets met schaken op internet wil doen|[lichess.org](https://lichess.org/)|
 |Doom online en eventueel MP. Omdat je altijd ff kan doomen | [doom](https://silentspacemarine.com/)|
 
-## Open Source Real Time Strategy
+## Open Source Real Time Strategy (RTS)
 
 | Wat | URL |
 |-----|-----|
