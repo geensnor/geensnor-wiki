@@ -12,3 +12,5 @@ parent: Inpaklijst
 - [ ] Iets om uit te drinken
 - [ ] Power bank
 - [ ] Bluetooth speaker
+- [ ] Muggenspul
+- [ ] Zaklamp

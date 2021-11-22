@@ -12,3 +12,6 @@ parent: Inpaklijst
 - [ ] Douchgel
 - [ ] Zonnebrand
 - [ ] Handdoeken
+- [ ] Pijnstillers
+- [ ] Oordoppen
+- [ ] Schaartje
