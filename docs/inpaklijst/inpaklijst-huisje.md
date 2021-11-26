@@ -12,6 +12,7 @@ De inpaklijst van een huisje is altijd wat lastig. Je wilt voorkomen dat het een
 - [ ] Koffielepeltje
 - [ ] Koffie
 - [ ] Koffie filters
+- [ ] Wasknijper of tape om zakjes dicht te maken
 - [ ] Theedoeken
 - [ ] Vaatdoeken
 - [ ] Vaatwasblokjes

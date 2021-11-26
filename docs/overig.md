@@ -16,6 +16,7 @@ title: Overig
 |Kleine Hakselaar/hakmolen|Kitchenaid 5KFC3516EER|[KitchenAid mini hakmolen](https://partner.bol.com/click/click?p=2&t=url&s=1181127&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fkitchenaid-mini-food-processor-5kfc3516s-hakmolen-wit%2F9200000084641155%2F&name=KitchenAid%20Mini%20Food%20Processor%205KFC3516S%20-%20Hak...)| Mooi klein, maar ook weer niet te klein. Hakt alles wat los en vast zit. Prima om bijv. hummus te maken, pesto, uitjes te snipperen, Kaas te raspen (kruimelen). En door het formaat kan hij prima in de keuken vertoeven.|
 |Waterpistool|NERF Super Soaker Splash Mouth|[bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnerf-super-soaker-splash-mouth-waterpistool%2F9200000089794928%2F&name=NERF%20Super%20Soaker%20Splash%20Mouth%20-%20Waterpistool)|Snel vullen doordat hij een grote klep bovenop heeft en geen lullig gaatje. Pompen is spuiten (jaja). Lijkt redelijk stevig|
 |Draadlopze oordopjes|QCY T4, maar ook ander types van QCY waarschijnlijk|[qcy.nl](https://www.qcy.nl/nl/draadloze-oortjes/)|Zie [artikel](/draadloze-oordopjes-voor-de-kleine-beurs/). Fijne oordopjes voor weinig.|
+|Messenslijper voor op reis|Victorinox Dual-Knive sharpener | [Victorinox.com](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Accessories/Dual-Knife-Sharpener/p/4.3323?mt_load=gt30)| Perfecte messenslijper die ook nog eens handig op reis mee kan. Zo fijn dat hij inmiddels mijn grotere slijper ook verdrongen heeft.|
 
 ## Jekyll problemen na macOS upgrade
 

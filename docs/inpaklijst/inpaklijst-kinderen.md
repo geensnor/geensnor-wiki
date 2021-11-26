@@ -25,7 +25,8 @@ parent: Inpaklijst
 - [ ] Babyshampoo
 - [ ] Babyzetpil
 - [ ] Sudocreme
-- [ ]
+- [ ] Babygym
+- [ ] Babynestje
 
 ## Redelijk jonge kinderen
 
