@@ -1,5 +1,6 @@
 ---
 title: Hotspots
+permalink: /hotspots/
 ---
 
 # Hotspots
