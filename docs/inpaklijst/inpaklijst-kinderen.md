@@ -5,14 +5,15 @@ parent: Inpaklijst
 
 # Kinderen paklijst
 
+- [ ] Speelgoed
+- [ ] Schone kleren
+
 ## Hele jonge kinderen
 
 - [ ] Luiers
 - [ ] Luierdoekjes
 - [ ] Flesje(s)
 - [ ] Melkpoeder
-- [ ] Speelgoed
-- [ ] Schone kleren
 - [ ] Babyfoon
 - [ ] Campingbedje
 - [ ] Matrasje van het campingbedje
@@ -31,7 +32,7 @@ parent: Inpaklijst
 ## Redelijk jonge kinderen
 
 - [ ] Soepstengels
-- [ ] Boekjes, speelgoed
+- [ ] Boekjes
 - [ ] Potje
 - [ ] Kinderzetpil
 - [ ] Kinderpleisters
