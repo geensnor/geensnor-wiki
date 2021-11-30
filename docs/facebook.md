@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Facebook en Meta schandalen
+title: Facebook schandalen
 permalink: /facebook-en-meta-schandalen/
 ---
 
