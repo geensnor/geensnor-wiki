@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Facebook schandalen
+title: Facebook en Meta schandalen
+permalink: /facebook-en-meta-schandalen/
 ---
 
 # Facebook en Meta schandalen
