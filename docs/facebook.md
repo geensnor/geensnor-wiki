@@ -11,6 +11,7 @@ Mark Zuckerberg is overigens doodsbang geworden van dit overzicht. Nadat het een
 
 |Datum|Schandaal|URL|
 |-----|---------|---|
+|november 2021|WhatsApp biedt de beste toegankelijkheid voor de FBI van alle berichtdiensten. Realtime bijvoorbeeld.|[Rolling Stone](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)|
 |november 2021|Cosmeticabedrijf Lush is klaar met het gedoe en gaat van Facebook (en nog wat andere sociale media) af.|[Bright](https://www.rtlnieuws.nl/tech/artikel/5269141/cosmetica-zeep-bath-bomb-lush-sociale-media-facebook-instagram-tiktok)|
 |november 2021|Facebook financiert wereldwijd misinformatie|[MIT Technolog Review](https://www.technologyreview.com/2021/11/20/1039076/facebook-google-disinformation-clickbait/)|
 |november 2021|Facebook weet dat 1 op de 8 gebruikers van Facebook leidt aan dwangmatig gebruik van het platform. Het interne team wat dat concludeerde is in 2019 opgeheven|[The Verge](https://www.theverge.com/2021/11/6/22766935/facebook-meta-aware-problematic-use-addiction-wellbeing)|
