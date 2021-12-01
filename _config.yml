@@ -69,3 +69,5 @@ defaults:
       show_gh_footer: true
 
 style: compressed
+search.button: true
+
