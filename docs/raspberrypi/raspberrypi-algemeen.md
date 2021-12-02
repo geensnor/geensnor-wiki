@@ -6,7 +6,7 @@ parent: Raspberry Pi
 
 # Algemene Pi tips
 
-## Installeren Raspberry PI
+## Installeren Raspberry PI OS (incl. headless)
 
 Voorheen moest je allemaal irritante dingen doen met images en sd-card writers, maar tegenwoordig heeft reaspberry een eigen superhandige Imager, [Raspberry PI imager](https://www.raspberrypi.com/software/).
 
