@@ -9,6 +9,6 @@ Facebook (sinds oktober 2021: Meta) is een verschrikkelijk bedrijf waardoor er m
 
 Mark Zuckerberg is overigens doodsbang geworden van dit overzicht. Nadat het een maand online stond, heeft hij de naam van z'n bedrijf gewijzigd in een poging om onze bezoekers om de (digitale) tuin te leiden. We zitten er gelukkig bovenop en gebruiken nu ook de nieuwe naam: Meta.
 
-|Datum|Schandaal|URL|
+|Datum|Schandaal|Bron|
 |-----|---------|---|{% for fb-schandaal in site.data.facebook-schandalen %}
 |{{ fb-schandaal.datum }}|{{ fb-schandaal.schandaal }}|[{{ fb-schandaal.bron }}]({{ fb-schandaal.url }})|{% endfor %}
