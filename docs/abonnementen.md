@@ -20,7 +20,7 @@ title: Abonnementen
 |De Rudi & Freddie Show|De correspondenten van De Correspondent, Jesse Frederik Rutger Bregman geven hun mening over allerlei onderwerpen. Uiteraard allemaal keurig in lijn met De Correspondent en daarom soms wat voorspelbaar.|[https://decorrespondent.nl/collectie/de-rudi-freddie-show](https://decorrespondent.nl/collectie/de-rudi-freddie-show)|
 |Darknet Diaries|Een podcast over hackers, encryptie, datalekken, overheden en spionage. Luistert als een spannende thriller.|[Darknet Diaries](https://darknetdiaries.com/)|
 
-## Youtube
+## YouTube
 
 |Naam   |Waar gaat het over|URL|
 |-------|------------------|---|
