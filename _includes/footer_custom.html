@@ -7,5 +7,7 @@
 </p>
 {%- endif -%}
 
+{% if jekyll.environment != "development" %}
 <script async defer data-website-id="c8f38146-dd4d-4c86-b5c0-f0e380a5e59a"
     src="https://umami-beryl.vercel.app/umami.js"></script>
+{%- endif -%}
