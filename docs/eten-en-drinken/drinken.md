@@ -30,7 +30,8 @@ parent: Eten en drinken
 
 | Naam       | Brouwerij  | URL                     | Toelichting             |
 | ---------- | ---------- | ----------------------- | ----------------------- |
-| Pitt & Rubi| Flügge     |[https://shop.brauerei-fluegge.de/produkt/pitt-rubi/](brauerei-fluegge.de)| Zo lekker dat ik er een sticker van op m'n fiets heb geplakt. Hybride bier van bier en wijn. Geweldige combi|
+| Pitt & Rubi| Flügge     |[brauerei-fluegge.de](https://shop.brauerei-fluegge.de/produkt/pitt-rubi/)| Zo lekker dat ik er een sticker van op m'n fiets heb geplakt. Hybride bier van bier en wijn. Geweldige combi|
+| Weide      | Nevel      |[nevel.org](https://nevel.org/product/weide-3/)|Bitter bier met lokale Spalter hop. Niet te zurig. Heerlijk fris. Lekkerste van Nevel en dat wil wat zeggen.|
 
 ## Overig
 
