@@ -9,7 +9,9 @@ De redactie van Geensnor snapt deze primaire reactie maar al te goed. Immers zij
 
 # Geensnor Baby Handboek
 
-## Wat moet ik regelen? (noodzakelijk)
+## Vooraf regelen
+
+### Noodzakelijke zaken
 
 Je krijgt een kind, en je moet dingen regelen. Formaliteiten maar wel handig om zsm te doen.
 
@@ -18,10 +20,11 @@ Je krijgt een kind, en je moet dingen regelen. Formaliteiten maar wel handig om 
 |Naam|Zonder naam is het lastig in het leven. Daarom moeten babies een naam. Zoek een leuke naam uit en voer een paar basale checks uit. Google en Wiki de naam en kijk of er niet toevallig een bekende dictator met dezelfde naam is. Schrijf de naam eens op, incl voorletters en controleer op ongelukkige constructies zoals K. Bouter. Haal hem eens door een rijmwoordenboek. Verder is de redactie heel liberaal en zoek je het allemaal maar uit.|
 |Kaartjes|Wil je standaard online kaartjes, dan kan dit worden uitgesteld. Wil je kaartjes laten ontwerpen, begin daar dan vroeg mee. Een ontwerper heeft tijd nodig.|
 |Adressen voor kaartjes|Waar woont die ene gekke achteroom eigenlijk die we ook een kaartje willen sturen? Voorkom last minute gezeik met adressen en zoek dat lekker ruim van te voren uit. Heb je ook mooi tijd om de adressen gewoon te printen op stickervellen.|
-|Erkennen en aangeven||
-|Opvang||
+|Erkennen, gezag en aangeven|Niet getrouwd (of geregistreerd partnerschap?) Hop naar het gemeentekantoor! Zolang je niet getrouwd bent heb je als vader geen enkel recht tenzij je het ongeboren kind erkend en vervolgens gezag aanvraagd bij de rechtbank. Trouw je toch? Dan hoef je veel minder te regelen. Allemaal lekker bureaucratisch, maar gelukkig is er genoeg over geschreven en krijg je vaak een aardigheidje van de gemeente erbij. Uitzoeken dus!|
+|Opvang| In de moderne samenleving, waarin beide ouders werken, ontkom je niet aan enige vorm van kinderopvang. Je hebt 2 belangrijke vormen. Gastouders en kinderopvang. Voor beide krijg je geld van de overheid via de toeslagen. Aangezien, zeker in de randstad, iedereen werkt èn kinderen krijgt is het dus ook mega druk en zijn er wachtlijsten. Daarom, regel dit zsm. Zaken om op te letten zijn afstand tot huis, losse leeftijdsgroepen of alles door elkaar en eventueel een pedagogisch plan. Maar ga vooral even een keertje langs, heb je het snel genoeg door of het iets is. Dichtbij is trouwens echt heel veel waard.|
+|Verzekering en kraampakket|Als het uitkomt is het goed om even goed te kijken naar de zorgverzekeringen. Moeder wil wellicht allerlei zaken omtrend bevalling, fysio, en herstel. Daarnaast is het vrij om te kiezen bij welke ouder het kind op de verzekering erbij komt dus dat wordt de gene met de meeste dekking. Daarnaast kun je via je zorgverzekering het kraampakket, noodzakelijk voor bevalling (ook als je niet thuis wilt bevallen), thuis laten bezorgen. Dat staat allemaal op de site van de verzekeraar.
 
-## Wat kan ik nog meer regelen? (handig)
+### Handige zaken
 
 Als het bijna zo ver is, slaan de spanningen toe. Heb ik alle geregeld (nee) en zijn we voorbereid op alles (nee). Een paar kleine tips.
 
@@ -29,7 +32,9 @@ Als het bijna zo ver is, slaan de spanningen toe. Heb ik alle geregeld (nee) en 
 |----|--------|
 |Voorraad eten|Je gaat even geen tijd en/of zin hebben om te koken de eerste weken na de bevalling. Kook vooraf even goed de vriezer vol met maaltijden, en vraag aan vrienden/familie om bij bezoek ook iets mee te nemen|
 
-## De bevalling
+## Tijdens en na
+
+### De bevalling
 
 Ojee. De baby gaat geboren worden. Dat gaat bij iedereen heel anders. We noemen een paar tips en dingen om aan te denken.
 
@@ -39,7 +44,18 @@ Ojee. De baby gaat geboren worden. Dat gaat bij iedereen heel anders. We noemen 
 |Portable audio| Zeker in het ziekenhuis is de sfeer niet heel gezellig. Een leuke playlist met rustige muziek kan de sfeer in de bevalkamer een stuk gezelliger maken en zelfs de bevalling bevorderen.|
 |Makkelijke kleren voor partner|Als partner hang je er sowieso nogal bij. Er bij hangen is fijner in makkelijke kleren. Koop een joggingbroek en neem de pantoffels mee naar het ziekenhuis.|
 
-## Wat moet ik hebben? (Eenmalig)
+### Na de bevalling
+
+En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar het kleine wonder. Nadenken zit er even niet in, maar gelukkig is de kwaamzorg daar om je de eerste week te ondersteunen. Een aantal dingen moet je even regelen
+
+|Wat|Hoezo?|
+|----|--------|
+|Aangeven| Bij de gemeente, zodat hij formeel een naam heeft en een BSN krijgt. Champagne! Kan soms digitaal maar het is ook wel even fijn er uit te zijn. Aangeven doet Papa trouwens in Nederland.|
+|Verzekeraar| Je meld bij de zorgverzekering dat je een nieuw kind hebt.|
+
+## Spullen kopen
+
+### Wat moet ik hebben? (Eenmalig)
 
 |Wat|Noodzakelijk?| Vooraf regelen? | Suggesties|
 |---|-------------|------------------|----------|
@@ -60,8 +76,9 @@ Ojee. De baby gaat geboren worden. Dat gaat bij iedereen heel anders. We noemen 
 |Verschoonkussen|Ja|||
 |Babyfoon|Optioneel| Nee | Wil je er niet veel aan uitgeven, koop dan de babyfoon van de Ikea voor 25 euro. Handig, draadloos op accu's en mooi klein. Trilt ook zodat je hem ook kan gebruiken tijdens momenten waarin je ff niks wilt horen. Er zijn natuurlijk enorm veel babyfoons te koop. Zaken waar je op kan letten zijn DECT (iedereen kan meeluisteren of niet), bereik, aanwezigheid video, aanwezigheid sterrenprojectie, aanwezigheid liedjes en temperatuur meten. Wij hebben goede ervaringen met die sterrenprojectie en deuntjes. De baby sliep er prima op. De peuter trouwens ook. Philips heeft een aantal fraaie exemplaren en heel vaak actieprijzen, o.a met de rentenpunten van de ING.|
 |Kinderstoel|Ja|Nee| Iedereen heeft een triptrap van Stokke. Dat zal wel een reden hebben. Nieuw duur, tweedehands ong. 50 euro. Let op, er zijn oude en nieuwe versies beschikbaar. Je wilt de nieuwe, anders past het tafeltje er niet op. Of de newborn set. De newborn set is trouwens een super handig ding en een aanrader. Ook die haal je van marktplaats.|
+|Campingbed|Optioneel|Nee|Een campingbed, of reiswieg is een enorme sta in de weg die ook nog eens veel te zwaar is. Toch koopt iedereen er 1 want dat kun je nog eens ergens anders gaan slapen met je kind. |
 
-## Wat moet ik hebben? (dagelijks)
+### Wat moet ik hebben? (dagelijks)
 
 |Wat|Noodzakelijk?|Suggesties|
 |---|-------------|----------|
