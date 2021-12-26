@@ -9,7 +9,7 @@ De redactie van Geensnor snapt deze primaire reactie maar al te goed. Immers zij
 
 # Geensnor Baby Handboek
 
-## Wat moet ik regelen?
+## Wat moet ik regelen? (noodzakelijk)
 
 Je krijgt een kind, en je moet dingen regelen. Formaliteiten maar wel handig om zsm te doen.
 
@@ -21,13 +21,23 @@ Je krijgt een kind, en je moet dingen regelen. Formaliteiten maar wel handig om 
 |Erkennen en aangeven||
 |Opvang||
 
-## Wat kan ik nog meer regelen voor de geboorte? (handig)
+## Wat kan ik nog meer regelen? (handig)
 
 Als het bijna zo ver is, slaan de spanningen toe. Heb ik alle geregeld (nee) en zijn we voorbereid op alles (nee). Een paar kleine tips.
 
 |Wat|Hoezo?|
 |----|--------|
 |Voorraad eten|Je gaat even geen tijd en/of zin hebben om te koken de eerste weken na de bevalling. Kook vooraf even goed de vriezer vol met maaltijden, en vraag aan vrienden/familie om bij bezoek ook iets mee te nemen|
+
+## De bevalling
+
+Ojee. De baby gaat geboren worden. Dat gaat bij iedereen heel anders. We noemen een paar tips en dingen om aan te denken.
+
+|Wat|Hoezo?|
+|----|--------|
+|ereader| Het kan allemaal nogal duren. Zeker als je naar het ziekenhuis gaat, neem iets te lezen mee.|
+|Portable audio| Zeker in het ziekenhuis is de sfeer niet heel gezellig. Een leuke playlist met rustige muziek kan de sfeer in de bevalkamer een stuk gezelliger maken en zelfs de bevalling bevorderen.|
+|Makkelijke kleren voor partner|Als partner hang je er sowieso nogal bij. Er bij hangen is fijner in makkelijke kleren. Koop een joggingbroek en neem de pantoffels mee naar het ziekenhuis.|
 
 ## Wat moet ik hebben? (Eenmalig)
 
