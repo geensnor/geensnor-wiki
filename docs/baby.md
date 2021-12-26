@@ -23,19 +23,19 @@ Je krijgt een kind, en je moet dingen regelen. Formaliteiten maar wel handig om 
 
 ## Wat moet ik hebben? (Eenmalig)
 
-|Wat|Noodzakelijk?|Suggesties|
-|---|-------------|----------|
-|Speen| Optioneel| Hele goede ervaringen met Soothies van Philips. Ze zien er niet uit, maar de baby hapt als een malle. Top ding. Als ze wat ouder zijn hebben we ook goede ervaringen met de natuurrubberen hivea's. |
-|Flessen| Ja | Philips advent flessen zijn prima en overal te koop. Dat is handig. |
-|Wandelwagen| Ja ||
-|Maxi cosi| Ja||
-|Ledikant| Ja||
-|Nestje| Optioneel||
-|Hydrofielen x10|Ja||
-|Luieremmer|Ja||
-|Commode|Ja||
-|Verschoonkussen|Ja||
-|Babyfoon|Optioneel|Wil je er niet veel aan uitgeven, koop dan de babyfoon van de Ikea voor 25 euro. Handig, draadloos op accu's en mooi klein. Trilt ook zodat je hem ook kan gebruiken tijdens momenten waarin je ff niks wilt horen. Er zijn natuurlijk enorm veel babyfoons te koop. Zaken waar je op kan letten zijn DECT (iedereen kan meeluisteren of niet), bereik, aanwezigheid video, aanwezigheid sterrenprojectie, aanwezigheid liedjes en temperatuur meten. Wij hebben goede ervaringen met die sterrenprojectie en deuntjes. De baby sliep er prima op. De peuter trouwens ook. Philips heeft een aantal fraaie exemplaren en heel vaak actieprijzen, o.a met de rentenpunten van de ING.
+|Wat|Noodzakelijk?| Vooraf regelen? | Suggesties|
+|---|-------------|------------------|----------|
+|Speen| Optioneel| Nee | Hele goede ervaringen met Soothies van Philips. Ze zien er niet uit, maar de baby hapt als een malle. Top ding. Als ze wat ouder zijn hebben we ook goede ervaringen met de natuurrubberen hivea's. |
+|Flessen| Ja | Ja | Philips advent flessen zijn prima en overal te koop. Dat is handig. Difrax is tegen krampjes,ook prima alleen het gat is te klein om er zonder knoeien poeder in te krijgen. Nog wat betreft die flessen en maten. Hecht niet te veel waarde aan die leeftijden die ze geven voor speen 0,1,2 en verder. Ook speen 0 blijkt het nog prima te doen bij kinderen van 6 maanden en meer. Dat is nogal kind afhankelijk allemaal en beetje testen is dus handig. |
+|Wandelwagen| Ja | Ja ||
+|Maxi cosi| Ja| Ja| Welke je moet hebben weet ik niet maar cosumentenbond, anwb en ADAC hebben ieder jaar heel veel testen. Zaken om even over te denken zijn hoe ze bevestigd worden. Gordel of een inmense permanente base. Gordel is prima en makkelijker dan ze je doen voorkomen. Ook kun je kijken hoe lang een kind erin kan. Voor je het weet moet je om de 6 maanden weer iets anders hebben. Goedkopere maxi cosi's zijn vrij zwaar. De meest moderene sjieke zijn bestaan uit 2 delen en zijn mega licht. Dat zag er super handig uit.|
+|Ledikant| Ja| Nee | Een ledikantje, of een babybed. Wat is er over te schrijven. Vaak zwerven die wel in de familie rond. Wel handig is als ze op verschillende hoogtes kunnen (voor oudere babies) en op een gegeven moment er een spijltje uitkan zodat ze er zelf uit kunnen klimmen.|
+|Nestje| Optioneel | Nee ||
+|Hydrofielen x10|Ja|||
+|Luieremmer|Ja|||
+|Commode|Ja|||
+|Verschoonkussen|Ja|||
+|Babyfoon|Optioneel| Nee | Wil je er niet veel aan uitgeven, koop dan de babyfoon van de Ikea voor 25 euro. Handig, draadloos op accu's en mooi klein. Trilt ook zodat je hem ook kan gebruiken tijdens momenten waarin je ff niks wilt horen. Er zijn natuurlijk enorm veel babyfoons te koop. Zaken waar je op kan letten zijn DECT (iedereen kan meeluisteren of niet), bereik, aanwezigheid video, aanwezigheid sterrenprojectie, aanwezigheid liedjes en temperatuur meten. Wij hebben goede ervaringen met die sterrenprojectie en deuntjes. De baby sliep er prima op. De peuter trouwens ook. Philips heeft een aantal fraaie exemplaren en heel vaak actieprijzen, o.a met de rentenpunten van de ING.|
 
 ## Wat moet ik hebben? (dagelijks)
 
