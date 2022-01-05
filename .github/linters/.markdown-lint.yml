@@ -21,11 +21,9 @@
 MD004: false # Unordered list style
 MD007:
   indent: 2 # Unordered list indentation
-MD013:
-  line_length: 400 # Line length 80 is far to short
+MD013: false # lange lijnen moeten gewoon kunnen.
 MD025: false # Allow mutiple top-level headings for Jekyll docs.
-MD026:
-  punctuation: ".,;:!。，；:" # List of not allowed
+MD026: false # List of not allowed. Maar we willen gewoon een uitroepteken in die heading!!
 MD029: false # Ordered list item prefix
 MD033: false # Allow inline HTML
 MD036: false # Emphasis used instead of a heading
