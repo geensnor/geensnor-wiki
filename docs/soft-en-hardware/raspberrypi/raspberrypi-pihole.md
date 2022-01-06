@@ -2,6 +2,7 @@
 layout: default
 title: Pi-hole
 parent: Raspberry Pi
+grand_parent: Software en hardware
 ---
 
 # Pi-hole op je Raspberry Pi

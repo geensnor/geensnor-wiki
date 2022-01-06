@@ -2,6 +2,7 @@
 layout: default
 title: Pi algemeen
 parent: Raspberry Pi
+grand_parent: Software en hardware
 ---
 
 # Algemene Pi tips
