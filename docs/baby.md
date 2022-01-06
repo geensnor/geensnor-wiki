@@ -8,6 +8,7 @@ permalink: /baby-handboek/
 De redactie van Geensnor snapt deze primaire reactie maar al te goed. Immers zijn wij ervaringsdeskundigen. Door schade en schande wijs geworden uiteraard. Geensnor steekt ook hier de helpende hand uit en presenteert het **grote Geensnor baby handboek.**
 
 # Geensnor Baby Handboek
+
 {: .no_toc }
 
 * TOC

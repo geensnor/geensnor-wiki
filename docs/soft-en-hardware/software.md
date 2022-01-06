@@ -1,8 +1,10 @@
 ---
 title: Software
+parent: Software en hardware
 ---
 
 # Software
+
 {: .no_toc }
 
 * TOC

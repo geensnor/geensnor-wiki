@@ -2,6 +2,7 @@
 layout: default
 title: Raspberry Pi
 has_children: true
+parent: Software en hardware
 show_gh_footer: false
 ---
 
