@@ -98,7 +98,7 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 
 ## Baby-huilt-stappenplan
 
-Je baby huilt. Dat doen ze. Uiteindelijk is het bijna altijd 1 van onderstaande zaken. Houd hoop en loop het lijstje gewoon af. Lukt het niet, begin dan weer bij 1. Misschien is dat het inmiddels nu toch. En bedenk, geen van onderstaande punten blijft werken. Zodra je denkt dat je het hebt, verandert de baby en vint hij het tegenovergestelde prettig.
+Je baby huilt. Dat doen ze. Uiteindelijk is het bijna altijd 1 van onderstaande zaken. Houd hoop en loop het lijstje gewoon af. Lukt het niet, begin dan weer bij 1. Misschien is dat het inmiddels nu toch. En bedenk, geen van onderstaande punten blijft werken. Zodra je denkt dat je het hebt, verandert de baby en vindt hij het tegenovergestelde prettig.
 
 Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoon niet lukken. Zet een kopje thee en stel je in op lange, lange uren. Uiteindelijke huilen ze zich wel in slaap. Accepteer en onthoud, alles is een fase en alles heeft een einde een worst zelfs twee. Tot slot kan het ook nog echt de spuigaten uitlopen. Dat je het na weken niet meer weet waar je het moet zoeken. Ga dan op zoek naar professionele hulp.
 
