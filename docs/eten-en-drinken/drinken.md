@@ -28,9 +28,10 @@ parent: Eten en drinken
 
 ## Bier
 
-| Wat          | Naam       | URL        | Toelichting             |
-| ------------ | ---------- | ---------- | ----------------------- |
-|Bierbrouwer|Nevel|[nevel.org](https://nevel.org)|Tegenwoordig heeft elke idioot z'n eigen brouwerij. Vaak is het niet meer dan een wedstijdtje lollige biernamen en gore ingredienten bedenken (ja, ik kijk naar jou, Kromme Haring met je smerige [spekkoekbier](https://untappd.com/b/de-kromme-haring-ikan-ikan/2420270)...). Maar daar moet Nevel uit Nijmegen niets van hebben. Die maken bijna alleen maar super lekker bier. Af en toe zelfs het [Beste bier van Nederland](https://www.gelderlander.nl/nijmegen/mattias-maakte-met-zijn-brouwerij-het-beste-bier-van-nederland-verrast-dat-de-jury-voor-dit-niche-product-koos~ab658501/).|
+| Naam       | Brouwerij  | URL                     | Toelichting             |
+| ---------- | ---------- | ----------------------- | ----------------------- |
+| Pitt & Rubi| Flügge     |[brauerei-fluegge.de](https://shop.brauerei-fluegge.de/produkt/pitt-rubi/)| Zo lekker dat ik er een sticker van op m'n fiets heb geplakt. Hybride bier van bier en wijn. Geweldige combi|
+| Weide      | Nevel      |[nevel.org](https://nevel.org/product/weide-3/)|Bitter bier met lokale Spalter hop. Niet te zurig. Heerlijk fris. Lekkerste van Nevel en dat wil wat zeggen.|
 
 ## Overig
 

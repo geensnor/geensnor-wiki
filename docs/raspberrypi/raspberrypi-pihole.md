@@ -64,7 +64,10 @@ Zonder WiFi verbinding begin je natuurlijk niet zoveel. Volgen deze stappen om v
 
 1. Open met je verkenner/finder je SD kaart
 2. Maak een bestand aan met de volgende naam: wpa_supplicant.conf
-3. Open het bestand met een texteditor en zet het volgende erin
+3. Open het bestand met een texteditor en zet het onderstaande erin
+4. Bewaren en afsluiten
+
+Inhoud wpa_supplicant.conf
 
 ```text
     update_config=1
@@ -74,9 +77,9 @@ Zonder WiFi verbinding begin je natuurlijk niet zoveel. Volgen deze stappen om v
     ssid="<ssid van je WiFi netwerk>"
     psk="<wachtwoord van je WiFi>"
     }
-    ```
+```
 
-4. Bewaren en afsluiten
+
 
 ### SSH aanzetten
 

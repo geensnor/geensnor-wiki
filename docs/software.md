@@ -14,9 +14,10 @@ title: Software
 |---|--------|--------|---|-----------|
 |Photo Sweeper|Duplicated vinden in je foto's|macOS|[website](https://overmacs.com/)|Super handig tooltje om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld, namelijk 10 euro, maar is het waard. Ik heb vele gb's kunnen besparen.|
 |Lulu|Outbound firewall voor mac|macOS|[lulu website](https://objective-see.com/products/lulu.html)|Zoals de meeste OS-en heeft ook Mac os een ingebouwde firewall. Die is echter alleen inbound. Het uitgaande verkeer kan doen en laten wat het wil. Lulu is een super licht gewicht klein appje die toestemming vraagt als een applicatie iets naar buiten wil doen. Hij vraagt eenmalig om akkoord. Werkt bijv. goed als software allemaal connecties maakt naar buiten zonder dat dat nodig is. |
-|GrandPerspective|Omvang van bestanden en mappen visualiseren|macOS|[grandperspectiv.sourceforge.net](http://grandperspectiv.sourceforge.net/)|Gratis tool. Doet wat het moet doen.|
+|GrandPerspective|Omvang van bestanden en mappen visualiseren|macOS|[sourceforge.net](http://grandperspectiv.sourceforge.net/)|Gratis tool. Doet wat het moet doen.|
 |networkQuality|Netwerk tool in macOS Monterey|macOS|nvt|`networkQuality` intypen in de Terminal en krijgt de netwerkkwaliteit te zien.|
 |One Dark Theme|Fijne theme voor Visual Studio Code|nvt|[visualstudio.com](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)||
+|Firefox|Internet browser|Alle|[mozilla.org](https://www.mozilla.org/nl/firefox/new/)|Iedereen kent hem wel, maar vaak ondergewaardeerd. Enige echte open source browser. Niet in handen van een advertentiebedrijf en fijner dan je denkt.|
 
 ## Web tools
 
@@ -48,3 +49,26 @@ Bedrijven zoeken op [allerlei](https://permissionmachine.com/) manieren naar afb
 |[pixabay.com](https://pixabay.com/nl/)|Nog wat rechtenvrije foto's|
 |[vektors.pro](https://www.vektors.pro/)|Gratis vectorafbeeldingen|
 |[Artvee](https://artvee.com/)|Browse and download high-resolution, public domain artworks.|
+
+## Games
+
+| Wat | URL |
+|-----|-----|
+|Setten. Bestaat ook als kaartspel, maar dan online.|[setwithfriends.com/](https://setwithfriends.com/)|
+|Textbased zeilspelletje online|[8bitbyte.ca/sailnavsim](https://8bitbyte.ca/sailnavsim)|
+|Grappig multiplayer spelletje. Probeer zoveel mogelijk punten te scoren door lijntjes op de goede plek te zetten.|[vett.space](https://vett.space/)|
+|Soort Airhockey, maar dan leuker. Multiplayer op één iPhone!|[Olo in Appstore](https://apps.apple.com/us/app/olo-game/id529826126)|
+|Als je ooit iets met schaken op internet wil doen|[lichess.org](https://lichess.org/)|
+|Doom online en eventueel MP. Omdat je altijd ff kan doomen | [doom](https://silentspacemarine.com/)|
+
+### Open Source Real Time Strategy (RTS)
+
+| Wat | URL |
+|-----|-----|
+|Age of Empires achtig spel. AI is vrij goed, of ik vrij slecht|[0ad](https://play0ad.com/)|
+|Civilisation (van Sid), maar dan Open Source. Nog niet heel erg geprobeerd, maar het ziet er wel vet uit!|[freeciv.org](https://www.freeciv.org/)|
+|Ongeveer hetzelfde als hierboven, maar dan in de browser.|[freecivweb.org](https://www.freecivweb.org/)|
+|Settlers 2 achtige RTS game|[widelands.org](https://www.widelands.org)|
+|Red Alert achtige RTS game|[openra.net](https://www.openra.net)|
+|Total Anahilation achtige RTS game. Zie er erg uitgebreid en netjes uit. Helaas geen Mac versie|[beyondallreason.info](https://www.beyondallreason.info)|
+|Niet echt een game, maar een OSS game engine voor RTS games.. Op de site zijn zie je verschillende games die met deze engine zijn gemaakt.|[sprintrts.com](https://springrts.com)|
