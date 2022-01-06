@@ -94,13 +94,13 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |Melk|Ja|Zonder melk, gaat de baby niet lekker. Kruidvat melk is prima en de helft zo goedkoop als Nutrilon.|
 |Sudocreme|Ja|Poep en plas de hele dag op je billen. Dat gaat niet lekker samen. Die billen worden rood en doen dus pijn. Smeren smeren smeren. Niet te dik, dan werkt het niet goed. Eventueel goed te combineren met Talkpoeder trouwens. (eerst talkpoeder, dan sudocreme)|
 |Talkpoeder|Ja|Zie boven|
-|Vitamine D|Ja|Vitaminde D is vitamine D. Koop dus gewoon de mega cheapo van de kruidvat|
+|Vitamine D|Ja|Vitaminde D is vitamine D. Koop dus gewoon de mega cheapo van de kruidvat.|
 
 ## Baby-huilt-stappenplan
 
-Je baby huilt. Dat doen ze. Uiteindelijk is het bijna altijd 1 van onderstaande zaken. Houd hoop en loop het lijstje gewoon af. Lukt het niet, begin dan weer bij 1. Misschien is dat het inmiddels nu toch. En bedenk, geen van onderstaande punten blijft werken. Zodra je denkt dat je het hebt, veranderd de baby en vind hij het tegenovergestelde prettig.
+Je baby huilt. Dat doen ze. Uiteindelijk is het bijna altijd 1 van onderstaande zaken. Houd hoop en loop het lijstje gewoon af. Lukt het niet, begin dan weer bij 1. Misschien is dat het inmiddels nu toch. En bedenk, geen van onderstaande punten blijft werken. Zodra je denkt dat je het hebt, verandert de baby en vint hij het tegenovergestelde prettig.
 
-Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoon niet lukken. Zet een kopje thee en stel je in op lange, lange uren. Uiteindelijke huilen ze zich wel in slaap. Accepteer en onthoud, alles in een fase en alles heeft een einde een worst zelfs twee. Tot slot kan het ook nog echt de spuigaten uitlopen. Dat je het na weken niet meer weet waar je het moet zoeken. Ga dan op zoek naar professionele hulp.
+Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoon niet lukken. Zet een kopje thee en stel je in op lange, lange uren. Uiteindelijke huilen ze zich wel in slaap. Accepteer en onthoud, alles is een fase en alles heeft een einde een worst zelfs twee. Tot slot kan het ook nog echt de spuigaten uitlopen. Dat je het na weken niet meer weet waar je het moet zoeken. Ga dan op zoek naar professionele hulp.
 
 ### Vaak voorkomend
 
@@ -112,7 +112,7 @@ Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoo
 |Boertjes|Burp. Boertjes zitten klem en dat vinden ze niet fijn. |
 |Wiegen| Zo oud als de weg naar Rome, maar in slaap wiegen is een klassieke truc! Niet alle babies houder er echter van|
 |Op schoot zitten| Beetje rechtop rustig zitten is ook heel relaxt! Soms vallen ze dan vanzelf in slaap|
-|Met rust laten| Duurde even voordat de redactie dit door had, maar de baby kan ook huilen omdat hij er helemaal klaar mee is en met rust gelaten wil worden. Leg hem gewoon neer in zijn bed en blijf van hem af. Wordt hij soms vanzelf rustig en gaat gewoon slapen. Heb je voor jan lul uren zitten wiegen.|
+|Met rust laten| Duurde even voordat de redactie dit door had, maar de baby kan ook huilen omdat hij er helemaal klaar mee is en met rust gelaten wil worden. Leg hem gewoon neer in zijn bed en blijf van hem af. Wordt hij soms vanzelf rustig en gaat gewoon slapen. Heb je voor Jan lul uren zitten wiegen.|
 
 ### Minder voorkomend
 
