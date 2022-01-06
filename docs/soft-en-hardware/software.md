@@ -1,8 +1,10 @@
 ---
 title: Software
+parent: Software en hardware
 ---
 
 # Software
+
 {: .no_toc }
 
 * TOC
@@ -52,11 +54,12 @@ Bedrijven zoeken op [allerlei](https://permissionmachine.com/) manieren naar afb
 
 ## Games
 
+### Algemene games
+
 | Wat | URL |
 |-----|-----|
 |Setten. Bestaat ook als kaartspel, maar dan online.|[setwithfriends.com/](https://setwithfriends.com/)|
 |Textbased zeilspelletje online|[8bitbyte.ca/sailnavsim](https://8bitbyte.ca/sailnavsim)|
-|Grappig multiplayer spelletje. Probeer zoveel mogelijk punten te scoren door lijntjes op de goede plek te zetten.|[vett.space](https://vett.space/)|
 |Soort Airhockey, maar dan leuker. Multiplayer op één iPhone!|[Olo in Appstore](https://apps.apple.com/us/app/olo-game/id529826126)|
 |Als je ooit iets met schaken op internet wil doen|[lichess.org](https://lichess.org/)|
 |Doom online en eventueel MP. Omdat je altijd ff kan doomen | [doom](https://silentspacemarine.com/)|
