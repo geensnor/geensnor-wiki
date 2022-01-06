@@ -54,6 +54,8 @@ Bedrijven zoeken op [allerlei](https://permissionmachine.com/) manieren naar afb
 
 ## Games
 
+### Algemene games
+
 | Wat | URL |
 |-----|-----|
 |Setten. Bestaat ook als kaartspel, maar dan online.|[setwithfriends.com/](https://setwithfriends.com/)|
