@@ -14,6 +14,7 @@ Overzicht van schoenen- en kledingmerken die fatsoenelijke mooie dingen maken. V
 |----|------|--------|
 |[Allbirds](https://www.allbirds.eu/)|Obama heeft ze ook. Fijne lichtgewicht sneakers. Veelal gemaakt van merino wol en ze kosten niet al te duur.|[It's a start](https://directory.goodonyou.eco/brand/allbirds)|
 |[Clae](https://clae.eu/)|Sneakers die lekker lopen en aardig lang meegaan. Niet helemaal duidelijk of Obama ze heeft. Check even de [outlet](https://clae.eu/collections/men-outlet) op de website voor wat korting.|Geen idee, zal wel niet.|
+|[Giesswein](https://nl.giesswein.com/)|Mega sufkuttenmerk volgens mij, maar prima pantoffels. En wat wil je, het zijn pantoffels, come on...| In de duurzaamheid toelichting op hun site staan spelfouten, dus dan weet je wel hoeveel aandacht ze er aan besteden. [It's a start](https://directory.goodonyou.eco/brand/giesswein) volgens [goodonyou.eco](https://directory.goodonyou.eco/)| 
 
 ## Kleding
 
