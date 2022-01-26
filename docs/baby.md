@@ -125,3 +125,7 @@ Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoo
 ## Vakantie
 
 Ga je op vakantie met je kind? Je moet erg veel zooi mee nemen, maar wat precies? Check daarvoor onze speciale [inpaklijst](/docs/inpaklijst/inpaklijst-kinderen.html)
+
+## DigiD
+
+Vraag zo snel mogelijk een DigiD voor je kind aan. Eigenlijk mag het niet omdat een DigiD persoonlijk is. Maar het is wel erg makkelijk. En zodra je hem nodig hebt (Corona test aanvragen bijvoorbeeld) is het te laat omdat het een paar dagen duurt voordat je er een hebt.
