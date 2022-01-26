@@ -59,6 +59,7 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |----|--------|
 |Aangeven| Bij de gemeente, zodat hij formeel een naam heeft en een BSN krijgt. Champagne! Kan soms digitaal maar het is ook wel even fijn er uit te zijn. Aangeven doet Papa trouwens in Nederland. En bij de aangifte hoef je de baby niet mee te nemen.|
 |Verzekeraar| Je meld bij de zorgverzekering dat je een nieuw kind hebt.|
+|DigiD|Vraag een DigiD voor je kind aan. Eigenlijk mag het niet omdat een DigiD persoonlijk is. Maar het is wel erg makkelijk. En zodra je hem nodig hebt (Corona test aanvragen bijvoorbeeld) is het te laat omdat het een paar dagen duurt voordat je er een hebt.|
 
 ## Spullen kopen
 
@@ -125,7 +126,3 @@ Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoo
 ## Vakantie
 
 Ga je op vakantie met je kind? Je moet erg veel zooi mee nemen, maar wat precies? Check daarvoor onze speciale [inpaklijst](/docs/inpaklijst/inpaklijst-kinderen.html)
-
-## DigiD
-
-Vraag zo snel mogelijk een DigiD voor je kind aan. Eigenlijk mag het niet omdat een DigiD persoonlijk is. Maar het is wel erg makkelijk. En zodra je hem nodig hebt (Corona test aanvragen bijvoorbeeld) is het te laat omdat het een paar dagen duurt voordat je er een hebt.
