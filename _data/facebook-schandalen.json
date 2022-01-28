@@ -1,6 +1,18 @@
 [
     {
         "datum": "januari 2022",
+        "schandaal": "Facebook beloofde arme landen gratis internet, maar ze moesten toch nog betalen.",
+        "bron": "Business Standard",
+        "url": "https://www.business-standard.com/article/international/facebook-promised-poor-countries-free-internet-people-got-charged-anyway-122012501813_1.html"
+    },    
+    {
+        "datum": "januari 2022",
+        "schandaal": "Facebook beloofde arme landen gratis internet, maar ze moesten toch nog betalen.",
+        "bron": "Business Standard",
+        "url": "https://www.business-standard.com/article/international/facebook-promised-poor-countries-free-internet-people-got-charged-anyway-122012501813_1.html"
+    },
+    {
+        "datum": "januari 2022",
         "schandaal": "Topmannen van Facebook (en Google) wisten van illegale overeenkomst advertentiemarkt",
         "bron": "Tweakers",
         "url": "https://tweakers.net/nieuws/192084/topmannen-google-en-facebook-wisten-van-illegale-overeenkomst-advertentiemarkt.html"
@@ -274,6 +286,12 @@
         "schandaal": "Facebook lekt informatie van 87 miljoen gebruikers aan Cambridge Analytica",
         "bron": "The Verge",
         "url": "https://www.theverge.com/2018/4/10/17165130/facebook-cambridge-analytica-scandal"
+    },
+    {
+        "datum": "februari 2018",
+        "schandaal": "Duitse rechtbank zegt dat Facebook's fake name beleid illegaal is",
+        "bron": "The Verge",
+        "url": "https://www.theverge.com/2018/2/12/17005746/facebook-real-name-policy-illegal-german-court-rules"
     },
     {
         "datum": "mei 2017",
