@@ -3,10 +3,14 @@ title: Weetjes
 parent: Lijsten
 ---
 
-# Weetjes
+#  Weetjes
+
+{{site.data.weetjes | size}} om precies te zijn.
 
 ---
 
+{% assign i = 1 %}
+
 {% for weetje in site.data.weetjes %}
-{{ weetje | newline_to_br  }}
+{% increment i %}. {{ weetje | newline_to_br  }}
 {% endfor %}

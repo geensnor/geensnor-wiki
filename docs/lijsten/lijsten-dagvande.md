@@ -11,6 +11,8 @@ Elke dag wel iets te vieren. Zelf iets toevoegen? Kijk eens op:
 
 - [beleven.org](https://www.beleven.org/feesten/)
 
+We hebben nu {{site.data.dagvande | size}} dagen dus we zijn er nog niet.
+
 ---
 
 <table>

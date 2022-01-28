@@ -5,7 +5,8 @@ parent: Lijsten
 
 # Haiku's
 
-Kleine Japanse gedichtjes met 17 lettergrepen.
+{{site.data.haiku | size}} kleine Japanse gedichtjes met 17 lettergrepen. 
+
 
 ---
 
