@@ -5,7 +5,7 @@ parent: Lijsten
 
 #  Weetjes
 
-{{site.data.weetjes | size}} om precies te zijn.
+Wist je dat we al {{site.data.weetjes | size}} weetjes hebben!
 
 ---
 
