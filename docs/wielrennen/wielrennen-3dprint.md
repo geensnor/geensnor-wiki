@@ -7,5 +7,4 @@ parent: Wielrennen
 
 | Wat | Plaatje | URL |
 |-----|------|--------|
-|Remblok Spacer|<script src="https://embed.github.com/view/3d/geensnor/DigitaleTuin/blob/master/assets/stl/geensnor-disc-brake.stl
-"></script>|[Download](/assets/stl/geensnor-disc-brake.stl)|
+|Remblok Spacer|![plaatje](https://cdn.thingiverse.com/assets/fb/23/c5/30/b4/card_preview_Geensnor_disc_brake.png)|[Download](/assets/stl/geensnor-disc-brake.stl)|
