@@ -67,5 +67,14 @@ defaults:
     values:
       layout: "default"
       show_gh_footer: true
+  - scope:
+      path: "_recepten"
+    values:
+      layout: "default"
+      show_gh_footer: true
 
 style: compressed
+
+collections:
+  recepten:
+    output: true
