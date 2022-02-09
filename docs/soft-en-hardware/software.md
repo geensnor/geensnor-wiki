@@ -10,7 +10,7 @@ parent: Software en hardware
 * TOC
 {:toc}
 
-## Voor op je computer
+## Voor op je computer of telefoon
 
 |Wat|Doet wat|Platform|URL|Toelichting|
 |---|--------|--------|---|-----------|
@@ -20,6 +20,7 @@ parent: Software en hardware
 |networkQuality|Netwerk tool in macOS Monterey|macOS|nvt|`networkQuality` intypen in de Terminal en krijgt de netwerkkwaliteit te zien.|
 |One Dark Theme|Fijne theme voor Visual Studio Code|nvt|[visualstudio.com](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)||
 |Firefox|Internet browser|Alle|[mozilla.org](https://www.mozilla.org/nl/firefox/new/)|Iedereen kent hem wel, maar vaak ondergewaardeerd. Enige echte open source browser. Niet in handen van een advertentiebedrijf en fijner dan je denkt.|
+|KeePassium|Keepass wachtwoord bestand openen|iOS|[keepassium.com](https://keepassium.com/)|Prima client zonder reclame of gezeur dat je naar "pro" moet upgraden.|
 
 ## Web tools
 
