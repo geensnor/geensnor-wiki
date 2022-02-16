@@ -5,16 +5,12 @@ parent: Software en hardware
 
 # Software
 
-{: .no_toc }
 
-* TOC
-{:toc}
 
 ## Voor op je computer of telefoon
 
 |Wat|Doet wat|Platform|URL|Toelichting|
 |---|--------|--------|---|-----------|
-|Photo Sweeper|Duplicated vinden in je foto's|macOS|[website](https://overmacs.com/)|Super handig tooltje om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld, namelijk 10 euro, maar is het waard. Ik heb vele gb's kunnen besparen.|
 |Lulu|Outbound firewall voor mac|macOS|[lulu website](https://objective-see.com/products/lulu.html)|Zoals de meeste OS-en heeft ook Mac os een ingebouwde firewall. Die is echter alleen inbound. Het uitgaande verkeer kan doen en laten wat het wil. Lulu is een super licht gewicht klein appje die toestemming vraagt als een applicatie iets naar buiten wil doen. Hij vraagt eenmalig om akkoord. Werkt bijv. goed als software allemaal connecties maakt naar buiten zonder dat dat nodig is. |
 |GrandPerspective|Omvang van bestanden en mappen visualiseren|macOS|[sourceforge.net](http://grandperspectiv.sourceforge.net/)|Gratis tool. Doet wat het moet doen.|
 |networkQuality|Netwerk tool in macOS Monterey|macOS|nvt|`networkQuality` intypen in de Terminal en krijgt de netwerkkwaliteit te zien.|
@@ -29,27 +25,9 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |Wat     |URL      |Toelichting        |
 |--------|---------|-------------------|
 |Planning poker|[scrumpoker-online.org](https://www.scrumpoker-online.org/)|Planning poker tool voor bijvoorbeeld Scrum|
-|Foto's aanpassen|[squoosh.app](https://squoosh.app/)|Afmeting, grote, compressie. Alles lekker vlot aanpassen. Door Google.|
-|Objecten uit foto's verwijderen|[cleanup.pictures](https://cleanup.pictures/)|Online versie van Photoshops retoucheerpenseel. Handig voor als er rommel op je foto staat.|
-|Online foto bewerking|[pqina.nl](https://pqina.nl/doka/image-editor/) of [photopea.com](https://www.photopea.com/) of [edit.photo](https://edit.photo/)|Photoshop te duur? Waarschijnlijk kun je het hier ook wel mee doen.|
 |P2P Bestanden en tekst delen|[webdrop.space](https://webdrop.space/)|Soms moet je wat delen tussen verschillende apparaten die ook nog eens verschillende OS-en hebben. Werkt op je LAN zonder configuratie. Wel de browser open houden want het werkt zonder cloud!|
 |Bestanden delen|[wormhole.app](https://wormhole.app/)|Eenvoudig bestanden delen zonder gedoe. Privacy voorop.|
 |QR code voor je WiFi|[qifi.org](https://qifi.org/)|WiFi codes overtypen is irritant. Maak er een QR code van je SSID en wachtwoord en verbinden is een fluitje van een cent.|
-|Diagrammen maken|[app.diagrams.net](https://app.diagrams.net/)|Flowtje, UMLeltje, serverruimte indelen? Diagrams.net kan het allemaal. Heeft ook een desktop versie. Voorheen draw.io|
-|Schetsen in de browser|[excalidraw.com](https://excalidraw.com/)|Handig als je snel iets wil tekenen, maar geen papier bij de hand hebt.|
 |Strava synchroniseren|[tapiriik.com](https://tapiriik.com/)|Alle fietsrondes staan natuurlijk in Strava, maar het is altijd een prettig idee om ze ook zelf te hebben. Tapiriik synct ze met allerlei diensten waaronder Dropbox.|
 |Markdown editor|[writemd.xyz](https://writemd.xyz/d/60efda973be295623)|Online Makrdown editor. Geen account nodig, delen via een URL, geen kermis.|
 |Video conferencing|[jitsi.org](https://jitsi.org/)|Het aanbod is reuze, maar aan alle video conferencing opties kleven wel wat nadelen. Jitsi lijkt tot nu toe de beste. Meerdere platformen, soepeltjes en vanuit de browser. En zonder registratie!|
-
-## Rechtenvrije media
-
-Bedrijven zoeken op [allerlei](https://permissionmachine.com/) manieren naar afbeeldingen waarvan ze denken dat zij daar de rechten op hebben. Om [gezeik](https://www.haykranen.nl/2021/09/14/geen-plaatjes/) te voorkomen, kun je het beste rechten vrije media kiezen als je je site een beetje wil opfluffen.
-
-| URL | Toelichting  |
-| ------------ | ---- |
-| [usplash.com](https://unsplash.com | Rechtenvrije foto's  |
-|[commons.wikimedia.org](https://commons.wikimedia.org)| Rechtenvrije foto's en video's van Wikimedia|
-|[pixabay.com](https://pixabay.com/nl/)|Nog wat rechtenvrije foto's|
-|[vektors.pro](https://www.vektors.pro/)|Gratis vectorafbeeldingen|
-|[Artvee](https://artvee.com/)|Browse and download high-resolution, public domain artworks.|
-
