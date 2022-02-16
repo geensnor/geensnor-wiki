@@ -1,9 +1,11 @@
 ---
-title: Software
+title: Games
 parent: Software en hardware
 ---
 
 ## Games
+
+Spelletjes. Altijd leuk.
 
 ### Algemene games
 
