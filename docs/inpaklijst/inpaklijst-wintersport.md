@@ -18,3 +18,7 @@ parent: Inpaklijst
 - [ ] Snowboardschoenen
 - [ ] Skibroek
 - [ ] Ski-jas
+- [ ] Strijkijzer om te waxen
+- [ ] Wax om te wzxen
+- [ ] Snowboots/bergschoenen
+- [ ] Sneeuwkettingen
