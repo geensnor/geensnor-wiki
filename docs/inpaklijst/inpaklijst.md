@@ -22,5 +22,6 @@ Spullen die altijd wel mee moeten
 - [ ] Schepje voor de koffie
 - [ ] Scherp mes
 - [ ] Slippers
+- [ ] Sloffen
 - [ ] Aansteker
 - [ ] EHBO Doos
