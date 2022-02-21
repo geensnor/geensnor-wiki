@@ -7,6 +7,8 @@ parent: Inpaklijst
 
 - [ ] Speelgoed
 - [ ] Schone kleren
+- [ ] Knuffels
+- [ ] Boekjes
 
 ## Hele jonge kinderen
 
@@ -28,11 +30,15 @@ parent: Inpaklijst
 - [ ] Sudocreme
 - [ ] Babygym
 - [ ] Babynestje
+- [ ] Slaapzak
+- [ ] Aankleed kussen
+- [ ] Washandjes (wegwerp)
 
 ## Redelijk jonge kinderen
 
 - [ ] Soepstengels
 - [ ] Boekjes
-- [ ] Potje
+- [ ] Potje/brilverkleiner
 - [ ] Kinderzetpil
 - [ ] Kinderpleisters
+
