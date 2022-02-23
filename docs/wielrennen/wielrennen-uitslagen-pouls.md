@@ -4,13 +4,13 @@ parent: Wielrennen
 permalink: "/uitslagen-wielren-poules/"
 ---
 
-# Uitslagen wielen poules Geensnor
+# Uitslagen wielren poules Geensnor
 
-## 2021
+Ieder jaar doet de redactie samen met de vaste bezoekers mee met zogenoemde poules om de verschillende wielrenwedstrijden te voorspellen. We houden een lijstje bij wie er ieder jaar met de winst van door gaat!
 
-De winnaar van 2021 is:
+## 2021 uitslag
 
-### Klaas
+De winnaar van 2021 is: Klaas!
 
 Gefeliciteerd Klaas! Dit jaar is niet de eerste keer dat Klaas het hoogste podium beklimt. Sterker nog, Klaas heeft al drie keer eerder gewonnen. Een absolute alleenheerser in Tour voorspellingen op Geensnor dus!
 
