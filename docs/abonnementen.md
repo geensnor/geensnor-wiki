@@ -19,6 +19,7 @@ title: Abonnementen
 |Yous & Yay: New Emotions|Pepijn en Sef praten met van allerlei mensen. Veel mensen uit cultuur/tv/muziek sector.|[https://www.vpro.nl/programmas/yous-en-yay.html](https://www.vpro.nl/programmas/yous-en-yay.html)|
 |De Rudi & Freddie Show|De correspondenten van De Correspondent, Jesse Frederik Rutger Bregman geven hun mening over allerlei onderwerpen. Uiteraard allemaal keurig in lijn met De Correspondent en daarom soms wat voorspelbaar.|[https://decorrespondent.nl/collectie/de-rudi-freddie-show](https://decorrespondent.nl/collectie/de-rudi-freddie-show)|
 |Darknet Diaries|Een podcast over hackers, encryptie, datalekken, overheden en spionage. Luistert als een spannende thriller.|[Darknet Diaries](https://darknetdiaries.com/)|
+|Alle geschiedenis ooit|Leuke podcast over allerlei geschiedenis weetjes|[Alle geschiedenis ooit](https://podcasts.apple.com/nl/podcast/alle-geschiedenis-ooit/id1589426327?i=1000553510230)|
 
 ## YouTube
 
