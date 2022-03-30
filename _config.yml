@@ -32,6 +32,7 @@ github_username: Geensnor
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-ical-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
