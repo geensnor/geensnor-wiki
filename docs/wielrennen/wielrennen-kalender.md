@@ -5,6 +5,8 @@ parent: Wielrennen
 
 # Wielerkalender 2022
 
+Er worden nogal wat rondes, tours, pijlen en omlopen georganiseerd. Hieronder staat ze voor de rest van het jaar. Liever ook in je eigen agenda? Haal dan [hier](https://calendar.google.com/calendar/ical/0ifbjtio49ljt75aimlbbhplhk%40group.calendar.google.com/public/basic.ics) het .ics bestand op en voeg hem toe aan je eigen agenda applicatie.
+
 [Legenda](#legenda)
 
 |Wedstrijd|Land|Startdatum|Einddatum|
@@ -23,5 +25,5 @@ parent: Wielrennen
 |.1       | Nog wat minder belangrijke races |
 
 
-[Bron](https://inrng.com/calendar/)
+[Bron](https://inrng.com/calendar/) 
 
