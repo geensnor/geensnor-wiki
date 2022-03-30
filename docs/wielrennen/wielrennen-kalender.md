@@ -7,7 +7,7 @@ parent: Wielrennen
 
 [Legenda](#legenda)
 
-|Wedstrijd|Locatie|Startdatum|Einddatum|
+|Wedstrijd|Land|Startdatum|Einddatum|
 |---------|----------|---------|{% ical url: https://calendar.google.com/calendar/ical/0ifbjtio49ljt75aimlbbhplhk%40group.calendar.google.com/public/basic.ics reverse: false only_future: true %}
 |{{ event.summary }}|{{ event.location }}|{{ event.start_time | date: "%a %e %b" }}|{{ event.end_time | date: "%a %e %b" }}|{% endical %}
 
