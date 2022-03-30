@@ -1,15 +1,21 @@
 [
     {
         "datum": "maart 2022",
+        "schandaal": "Meta gaf gebruikersdata aan hackers omdat ze dachten dat het om een wettig verzoek ging.",
+        "bron": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2022-03-30/apple-meta-gave-user-data-to-hackers-who-forged-legal-requests"
+    },
+    {
+        "datum": "maart 2022",
         "schandaal": "Meta betaalde bedrijf om TikTok in diskrediet te brengen.",
         "bron": "Tweakers",
-        "url": " https://tweakers.net/nieuws/195032/meta-betaalde-bedrijf-om-tiktok-in-diskrediet-te-brengen.html"
+        "url": "https://tweakers.net/nieuws/195032/meta-betaalde-bedrijf-om-tiktok-in-diskrediet-te-brengen.html"
     },
     {
         "datum": "maart 2022",
         "schandaal": "Meta aangeklaagd door Australische toezichthouder vanwege nepadvertenties.",
         "bron": "nu.nl",
-        "url": " https://www.nu.nl/tech/6190000/meta-aangeklaagd-door-australische-toezichthouder-vanwege-nepadvertenties.html"
+        "url": "https://www.nu.nl/tech/6190000/meta-aangeklaagd-door-australische-toezichthouder-vanwege-nepadvertenties.html"
     },
     {
         "datum": "maart 2022",
