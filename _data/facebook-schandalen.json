@@ -1,6 +1,12 @@
 [
     {
         "datum": "april 2022",
+        "schandaal": "Onderzoek wijst uit dat misinformatie 6 keer mee kliks kreeg tijdens de presidentsverkiezingen in de VS, dan feitelijke informatie.",
+        "bron": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2021/09/03/facebook-misinformation-nyu-study/"
+    },    
+    {
+        "datum": "april 2022",
         "schandaal": "Bij twijfel van kindermisbruik, blijft Meta achter de volwassene staan waardoor kindermisbruik waarschijnlijk ondergerapporteerd wordt.",
         "bron": "The Verge",
         "url": "https://www.theverge.com/2022/3/31/23005576/facebook-content-moderators-child-sexual-abuse-material-csam-policy"
