@@ -15,3 +15,4 @@ parent: Wielrennen
 | Lekkere energie reep | Maxim | [bol.com](https://www.bol.com/nl/nl/p/maxim-energy-bar-cappuccino-caffeine-15-x-55g-energiereep-met-muesli-gedroogd-fruit-cappuccinosmaak-en-chocolade-voetje-15-energierepen-cappuccino-bevat-cafeine-voor-een-extra-energie-kick-eet-makkelijk-weg-en-levert-snel-energie/9200000073371121/) | Niet goedkoop (2,20 euro de reep) maar wel lekker! En ik fiets er al jaren heel goed op. Volgens mij werken deze heel goed :) |
 | Fietsroute planner| BRouter | [brouter.de](https://brouter.de/brouter-web) | Eenvoudige, open source routeplanner die prima werkt. Goedkoper dan Strava en minder super irritant dan Komoot. |
 |Frame vergelijker|Geometry compare|[geometrygeeks](https://geometrygeeks.bike)|Super complete en overzichtelijke database van alle informatie over alle frames van alle merken|
+|GPX delen/bekijken|View GPX|[viewgpx.com](https://www.viewgpx.com/)|Snel GPX route op kaart plotten en delen|
