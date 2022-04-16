@@ -16,3 +16,16 @@ parent: Wielrennen
 | Fietsroute planner| BRouter | [brouter.de](https://brouter.de/brouter-web) | Eenvoudige, open source routeplanner die prima werkt. Goedkoper dan Strava en minder super irritant dan Komoot. |
 |Frame vergelijker|Geometry compare|[geometrygeeks](https://geometrygeeks.bike)|Super complete en overzichtelijke database van alle informatie over alle frames van alle merken|
 |GPX delen/bekijken|View GPX|[viewgpx.com](https://www.viewgpx.com/)|Snel GPX route op kaart plotten en delen|
+
+## Kaart updaten van Garmin Edge
+
+Idee is dat je de nieuwe kaart van Openstreetmap gebruikt, maar die moet eerst even geschikt gemaakt worden voor je Garmin. Dit gaat in elk geval voor de Edge 520 zo. Misschien ook voor andere typen.
+
+1. Ga naar [extract.bbbike.org](https://extract.bbbike.org/)
+2. Selecteer daar het stuk Nederland wat je moet hebben.
+3. "Garmin Openfietsmap Lite" kiezen. De Full is veel te groot.
+4. Wachten totdat je een mailtje krijgt met de download link van de kaart.
+5. Zorg ervoor dat de nieuwe kaart `gmapbmap.img` heet.
+6. In de `Garmin` map van je Garmin Edge zetten.
+
+Artikel van [DC Rainmaker](https://www.dcrainmaker.com/2019/08/how-to-install-free-maps-on-your-garmin-edge.html) hierover.
