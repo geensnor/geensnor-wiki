@@ -37,3 +37,6 @@ end
 
 gem "webrick", "~> 1.7"
 gem 'jekyll-ical-tag'
+
+gem "json"
+gem "activesupport"
