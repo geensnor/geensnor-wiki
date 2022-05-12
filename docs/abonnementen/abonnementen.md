@@ -1,8 +1,11 @@
 ---
 title: Abonnementen
+has_children: true
 ---
 
 # Abonnementen
+
+Overzicht van alle RSS feeds: [RSS Feeds](rss-feeds)
 
 ## Nieuwsbrieven
 
