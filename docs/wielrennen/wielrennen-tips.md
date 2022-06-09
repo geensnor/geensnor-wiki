@@ -42,3 +42,4 @@ Als je nieuwe spullen wilt ga je tegenwoordig meestal even online kijken. Er zij
 |[12gobiking](https://www.12gobiking.nl/)|Positief|
 |[Rose.de](https://www.rosebikes.com/)| Positief|
 |[Wagenberg tweewielers](https://www.wagenberg2-wielers.nl/)| Matig|
+|[Hopmans Fietsgigant](https://www.hopmansfietsgigant.nl/)|-|
