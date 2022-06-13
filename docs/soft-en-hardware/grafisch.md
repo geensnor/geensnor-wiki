@@ -25,4 +25,5 @@ Plaatjes, diagrammen, foto's, tekeningen. Het oog wil ook wat...
 |Diagrammen maken|[app.diagrams.net](https://app.diagrams.net/)|Flowtje, UMLeltje, serverruimte indelen? Diagrams.net kan het allemaal. Heeft ook een desktop versie. Voorheen draw.io|
 |Schetsen in de browser|[excalidraw.com](https://excalidraw.com/)|Handig als je snel iets wil tekenen, maar geen papier bij de hand hebt.|
 |SVG bewerking|[https://yqnn.github.io/svg-path-editor/](https://yqnn.github.io/svg-path-editor/)|Pielen met SVG bestanden.|
+|Achtergrond van je foto weghalen |[clipdrop.co](https://clipdrop.co)|Kei handig.|
 
