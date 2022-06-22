@@ -29,3 +29,17 @@ Idee is dat je de nieuwe kaart van Openstreetmap gebruikt, maar die moet eerst e
 6. In de `Garmin` map van je Garmin Edge zetten.
 
 Artikel van [DC Rainmaker](https://www.dcrainmaker.com/2019/08/how-to-install-free-maps-on-your-garmin-edge.html) hierover.
+
+## Wielren(web)shops
+
+Als je nieuwe spullen wilt ga je tegenwoordig meestal even online kijken. Er zijn een aantal goede wielrenwebshops. Hieronder een lijstje.
+
+|Naam | Ervaring |
+|-----|---------|
+|[Mantel.com](https://www.mantel.com)|Positief|
+|[Futurumshop](https://www.futurumshop.nl)|Positief|
+|[Bakker Racing](https://www.bakkerracingproducts.nl/)|Positief|
+|[12gobiking](https://www.12gobiking.nl/)|Positief|
+|[Rose.de](https://www.rosebikes.com/)| Positief|
+|[Wagenberg tweewielers](https://www.wagenberg2-wielers.nl/)| Matig|
+|[Hopmans Fietsgigant](https://www.hopmansfietsgigant.nl/)|-|
