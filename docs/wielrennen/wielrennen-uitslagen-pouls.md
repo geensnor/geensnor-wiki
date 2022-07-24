@@ -12,6 +12,7 @@ Sinds 2022 poulen we met onze eigen poule: [https://www.geensnor.nl/tourpoule/](
 
 |jaar|ronde|winnaar|
 |----|-------|
+|2022|Tour de France|Ralph|
 |2022|Giro d’Italia|Rik|
 |2021|Tour de France|Klaas  |
 |2020|Tour de France|Marijn |
