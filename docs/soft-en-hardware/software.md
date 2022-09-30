@@ -15,6 +15,7 @@ parent: Software en hardware
 |One Dark Theme|Fijne theme voor Visual Studio Code|nvt|[visualstudio.com](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)||
 |Firefox|Internet browser|Alle|[mozilla.org](https://www.mozilla.org/nl/firefox/new/)|Iedereen kent hem wel, maar vaak ondergewaardeerd. Enige echte open source browser. Niet in handen van een advertentiebedrijf en fijner dan je denkt.|
 |KeePassium|Keepass wachtwoord bestand openen|iOS|[keepassium.com](https://keepassium.com/)|Prima client zonder reclame of gezeur dat je naar "pro" moet upgraden.|
+|StarUML|UML tool|mac/windows|[staruml.io](https://staruml.io/)|Voor als je wilt UML-en. Kost niks, werkt goed|
 
 ## Web tools
 
