@@ -9,7 +9,7 @@ Hieronder staan de RSS feeds die we lezen, per categorie. Het overzicht wordt ge
 
 <br>
 <ul>
-{% for group in site.data.feedly.opml.body.outline %}
+{% for group in site.data.feeds.opml.body.outline %}
     <li>{{ group.title }}</li>
     {% if group.outline.title %}
         <ul>

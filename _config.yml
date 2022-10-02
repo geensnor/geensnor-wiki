@@ -72,6 +72,6 @@ defaults:
 style: compressed
 
 jekyll_xml:
-  - data: feedly
-    source: https://feedly.com/v3/opml?feedlyToken=A3LLwcOHDwueBrgQ8R-ftztvn1BQtCwXlfQflsXCcQjRdrciEkudcVVHLgsg-F_7MJh0mcWA3953DgmgC_79hUC9tfeQcnVdvQ4516vFidW7febnzM-6iVGiT46eFy7u4zdvjMvDf0anhTBzzLjk4xNVW_aHHQpoYZFaqKHc2RuBfbI0Vta0P9C1gCcBVOiW4CSA4HyLvfySMFtmCk-xPhHHYxFmqpgjZ3m3QIgwaxT2ag%3Afeedly
+  - data: feeds
+    source: https://raw.githubusercontent.com/reithose/feeds/main/rss-feeds.opml
     cache: true
