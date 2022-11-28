@@ -1,13 +1,19 @@
 [
     {
         "datum": "november 2022",
+        "schandaal": "Meta krijgt 265 miljoen euro boete om lekken gegevens",
+        "bron": "RTL Nieuws",
+        "url": "https://www.rtlnieuws.nl/tech/artikel/5349737/meta-facebook-boete"
+    },
+    {
+        "datum": "november 2022",
         "schandaal": "Overheidspagina's op Facebook leveren privacyrisico's op",
         "bron": "nu.nl",
         "url": "https://www.nu.nl/tech/6237049/overheidspaginas-op-facebook-leveren-volgens-ministerie-privacyrisicos-op.html"
     },
     {
         "datum": "november 2022",
-        "schandaal": "Facebook stonden illegale advertentiees toen rond verkiezingen",
+        "schandaal": "Facebook stonden illegale advertentiees toe rond verkiezingen",
         "bron": "Tweakers",
         "url": "https://tweakers.net/nieuws/203008/facebook-en-instagram-stonden-illegaal-advertenties-toe-rond-verkiezingen.html"
     },
