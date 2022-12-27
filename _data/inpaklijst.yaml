@@ -110,6 +110,11 @@ categorieen:
       - Multitool (of iets met inbus)
   - naam: Wintersport
     items:
+      - Ski's
+      - Skischoenen
+      - Skistokken
+      - Snowboard
+      - Snowboardschoenen
       - Skibril
       - Helm
       - Skisokken
@@ -119,8 +124,6 @@ categorieen:
       - Handschoenen
       - Rugzak
       - Goedkope zonnebril
-      - Snowboard
-      - Snowboardschoenen
       - Skibroek
       - Ski-jas
       - Wax
