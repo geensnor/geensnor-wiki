@@ -23,6 +23,7 @@ Plaatjes, diagrammen, foto's, tekeningen. Het oog wil ook wat...
 |Objecten uit foto's verwijderen|[cleanup.pictures](https://cleanup.pictures/)|Online versie van Photoshops retoucheerpenseel. Handig voor als er rommel op je foto staat.|
 |Online foto bewerking|[photopea.com](https://www.photopea.com/) of [edit.photo](https://edit.photo/)|Photoshop te duur? Waarschijnlijk kun je het hier ook 
 |Diagrammen maken|[app.diagrams.net](https://app.diagrams.net/)|Flowtje, UMLeltje, serverruimte indelen? Diagrams.net kan het allemaal. Heeft ook een desktop versie. Voorheen draw.io|
+|Meer diagrammen maken|[https://excalidraw.com/](Excalidraw)| Ook handig en nog net wat simpeler dan draw.io. Lekker to the point en alles in local storage|
 |Schetsen in de browser|[excalidraw.com](https://excalidraw.com/)|Handig als je snel iets wil tekenen, maar geen papier bij de hand hebt.|
 |SVG bewerking|[https://yqnn.github.io/svg-path-editor/](https://yqnn.github.io/svg-path-editor/)|Pielen met SVG bestanden.|
 |Achtergrond van je foto weghalen |[clipdrop.co](https://clipdrop.co/remove-background) of met iets meer opties: [remove.bg](https://www.remove.bg)|Kei handig.|
