@@ -1,0 +1,22 @@
+{ 
+  "ignorePatterns": [
+    {
+      "pattern": "^/"
+    },
+    {
+      "pattern": "^./"
+    },
+    {
+      "pattern": "^../"
+    },
+    {
+      "pattern": "[1-9]{1,3}\\.[1-9]{1,3}"
+    },
+    {
+      "pattern": ".local"
+    }
+  ]
+}
+
+
+
