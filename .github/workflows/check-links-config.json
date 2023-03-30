@@ -1,4 +1,4 @@
-{ 
+{
   "ignorePatterns": [
     {
       "pattern": "^/"
@@ -15,8 +15,6 @@
     {
       "pattern": ".local"
     }
-  ]
+  ],
+  "aliveStatusCodes": [200, 206, 400]
 }
-
-
-
