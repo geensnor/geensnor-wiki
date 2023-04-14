@@ -9,7 +9,7 @@ parent: Eten en drinken
 
 | Wat          | Naam       | URL        | Toelichting             |
 | ------------ | ---------- | ---------- | ----------------------- |
-| Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
+| Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. Niet alles van moyee is trouwens te hachelen, het meeste zelfs niet.|
 |Koffie bonen| Perla Superiore Kenia bonen | [Perla kenia](https://www.ah.nl/producten/product/wi161542/perla-superiore-kenia-bonen) | Goed betaalbare lekkere bonen van de appie. Lekker mild met een fruitje. |
 
 ## Wijn
