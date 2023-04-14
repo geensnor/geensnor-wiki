@@ -15,6 +15,7 @@ parent: Wielrennen
 | Fietsroute planner| BRouter | [brouter.de](https://brouter.de/brouter-web) | Eenvoudige, open source routeplanner die prima werkt. Goedkoper dan Strava en minder super irritant dan Komoot. |
 |Frame vergelijker|Geometry compare|[geometrygeeks](https://geometrygeeks.bike)|Super complete en overzichtelijke database van alle informatie over alle frames van alle merken|
 |GPX delen/bekijken|View GPX|[viewgpx.com](https://www.viewgpx.com/)|Snel GPX route op kaart plotten en delen|
+|Bandenspanning berekenen|Silca|[silcavelo.eu](https://silcavelo.eu/pages/sppc-form)|Banden, ondergrond, gewicht. Alles heeft invloed op de perfecte bandenspanning. Bereken het eenvoudig met dit tooltje|
 
 ## Eten en drinken tips
 
