@@ -14,6 +14,7 @@ parent: Wielrennen
 | Waterdicht hoesje voor je telefoon | Oppselve Pouch | [Aliexpress](https://nl.aliexpress.com/item/Waterdichte-Mobiele-Telefoon-Case-Voor-iPhone-X-Xs-Max-Xr-8-7-Samsung-S9-Clear-PVC/32858636361.html?spm=a2g0s.9042311.0.0.26344c4dvzxDl1) | Prima ding. Lijkt ook nog best degelijk voor 1 euro 70. Groot zat voor iPhone XR |
 | Fietsroute planner| BRouter | [brouter.de](https://brouter.de/brouter-web) | Eenvoudige, open source routeplanner die prima werkt. Goedkoper dan Strava en minder super irritant dan Komoot. |
 |Frame vergelijker|Geometry compare|[geometrygeeks](https://geometrygeeks.bike)|Super complete en overzichtelijke database van alle informatie over alle frames van alle merken|
+|Steekas vinden| Robert Axle project | [Robert site](https://robertaxleproject.com/)| Omdat er tig soorten steekassen zijn, een mooi overzicht|
 |GPX delen/bekijken|View GPX|[viewgpx.com](https://www.viewgpx.com/)|Snel GPX route op kaart plotten en delen|
 |Bandenspanning berekenen|Silca|[silcavelo.eu](https://silcavelo.eu/pages/sppc-form)|Banden, ondergrond, gewicht. Alles heeft invloed op de perfecte bandenspanning. Bereken het eenvoudig met dit tooltje|
 
