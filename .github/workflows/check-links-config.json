@@ -16,5 +16,5 @@
       "pattern": ".local"
     }
   ],
-  "aliveStatusCodes": [0, 200, 206, 400]
+  "aliveStatusCodes": [0, 200, 206, 400, 403]
 }
