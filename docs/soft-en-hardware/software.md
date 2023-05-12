@@ -16,6 +16,7 @@ parent: Software en hardware
 |Firefox|Internet browser|Alle|[mozilla.org](https://www.mozilla.org/nl/firefox/new/)|Iedereen kent hem wel, maar vaak ondergewaardeerd. Enige echte open source browser. Niet in handen van een advertentiebedrijf en fijner dan je denkt.|
 |KeePassium|Keepass wachtwoord bestand openen|iOS|[keepassium.com](https://keepassium.com/)|Prima client zonder reclame of gezeur dat je naar "pro" moet upgraden.|
 |StarUML|UML tool|mac/windows|[staruml.io](https://staruml.io/)|Voor als je wilt UML-en. Evaluatieversie is eindeloos te gebruiken zonder kosten.|
+|Organic Maps|Kaarten en navigatie|iOS en Android|[organicmaps.app](https://organicmaps.app/)|Erg fijne kaarten app voor als je meer detail wil zien. Kaarten zijn veel beter dan bijvoorbeeld die van Google Maps. Je kan ze bovendien ook gratis downloaden dus je hebt niet perse een internetverbinding nodig. Er zit ook navigatie in, maar die moet je even vergeten...|
 
 ## Web tools
 
