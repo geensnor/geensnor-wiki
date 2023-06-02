@@ -75,3 +75,5 @@ jekyll_xml:
   - data: feeds
     source: https://raw.githubusercontent.com/reithose/feeds/main/rss-feeds.opml
     cache: true
+    
+include: [".well-known"]
