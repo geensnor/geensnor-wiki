@@ -39,6 +39,8 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 - Database met meer dan 2000 brutalistische gebouwen: [SOSBrutalism](https://www.sosbrutalism.org)
 
+- De Volkskrant 31 mei 2023: [Ruwe bolsters in de Nederlandse polder: het brutalisme is populairder dan ooit ](https://www.volkskrant.nl/cultuur-media/ruwe-bolsters-in-de-nederlandse-polder-het-brutalisme-is-populairder-dan-ooit~b925c3be/)
+
   
 
 
