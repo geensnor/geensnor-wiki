@@ -16,6 +16,7 @@ Statshunter is een site die allerlei data uit je Strava ritten haalt en daar all
 | ----- | -------------------------------------------------------------------------------------------------- |
 | Erik  | [https://www.statshunters.com/share/4c9b2e075d33](https://www.statshunters.com/share/4c9b2e075d33) |
 | Joris | [https://www.statshunters.com/share/f7b1e13afdf5](https://www.statshunters.com/share/f7b1e13afdf5) |
+| Thijs | [https://www.statshunters.com/share/3328e4995d51](https://www.statshunters.com/share/3328e4995d51) |
 
 ## Strava
 
