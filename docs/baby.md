@@ -51,7 +51,7 @@ Ojee. De baby gaat geboren worden. Dat gaat bij iedereen heel anders. We noemen 
 
 ## De baby
 
-En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar het kleine wonder. Nadenken zit er even niet in, maar gelukkig is de kwaamzorg daar om je de eerste week te ondersteunen. Een aantal dingen moet je even regelen
+En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar het kleine wonder. Nadenken zit er even niet in, maar gelukkig is de kraamzorg daar om je de eerste week te ondersteunen. Een aantal dingen moet je even regelen
 
 ### Wat te doen?
 
