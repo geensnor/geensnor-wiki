@@ -58,8 +58,8 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |Wat|Hoezo?|
 |----|--------|
 |Aangeven| Bij de gemeente, zodat hij formeel een naam heeft en een BSN krijgt. Champagne! Kan soms digitaal maar het is ook wel even fijn er uit te zijn. Aangeven doet Papa trouwens in Nederland. En bij de aangifte hoef je de baby niet mee te nemen.|
-|Verzekeraar| Je meld bij de zorgverzekering dat je een nieuw kind hebt.|
-|DigiD|Vraag een DigiD voor je kind aan. Eigenlijk mag het niet omdat een DigiD persoonlijk is. Maar het is wel erg makkelijk. En zodra je hem nodig hebt (Corona test aanvragen bijvoorbeeld) is het te laat omdat het een paar dagen duurt voordat je er een hebt.|
+|Verzekeraar| Je meldt bij de zorgverzekering dat je een nieuw kind hebt.|
+|DigiD|Vraag een DigiD voor je kind aan. Eigenlijk mag het niet omdat een DigiD persoonlijk is. Maar het is wel erg makkelijk. En zodra je hem nodig hebt (Coronatest aanvragen bijvoorbeeld) is het te laat omdat het een paar dagen duurt voordat je er een hebt.|
 
 ## Spullen kopen
 
@@ -68,7 +68,7 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |Wat|Noodzakelijk?| Vooraf regelen? | Suggesties|
 |---|-------------|------------------|----------|
 |Speen| Nee| Nee | Hele goede ervaringen met Soothies van Philips. Ze zien er niet uit, maar de baby hapt als een malle. Top ding. Als ze wat ouder zijn hebben we ook goede ervaringen met de natuurrubberen hevea's. |
-|Flessen| Ja | Ja | Philips avent flessen zijn prima en overal te koop. Dat is handig. Difrax is tegen krampjes,ook prima alleen het gat is te klein om er zonder knoeien poeder in te krijgen. Welke je moet hebben moet je zelf weten maar het is heel handig als ze makkelijk en overal verkrijgbaar zijn, zodat je overal een nieuwe speen op je fles kan kopen. Nog wat betreft die flessen en maten. Hecht niet te veel waarde aan die leeftijden die ze geven voor speen 0,1,2 en verder. Ook speen 0 blijkt het nog prima te doen bij kinderen van 6 maanden en meer. Dat is nogal kind afhankelijk allemaal en beetje testen is dus handig. Zorg in ieder geval dat je een flesje met een speen 0 in huis hebt. |
+|Flessen| Ja | Ja | Philips Avent flessen zijn prima en overal te koop. Dat is handig. Difrax is tegen krampjes,ook prima alleen het gat is te klein om er zonder knoeien poeder in te krijgen. Welke je moet hebben moet je zelf weten maar het is heel handig als ze makkelijk en overal verkrijgbaar zijn, zodat je overal een nieuwe speen op je fles kan kopen. Nog wat betreft die flessen en maten. Hecht niet te veel waarde aan die leeftijden die ze geven voor speen 0,1,2 en verder. Ook speen 0 blijkt het nog prima te doen bij kinderen van 6 maanden en meer. Dat is nogal kind afhankelijk allemaal en beetje testen is dus handig. Zorg in ieder geval dat je een flesje met een speen 0 in huis hebt. |
 |Steriliseren tools| Nee | Nee | Steriliseren van flesjes, spenen e.d De ene kraamzorg is er heel fundemantalistisch over, de andere interesseert het allemaal niks. Je hebt in ieder geval hele goedkope (paar euro) plastic ronde bakken te koop voor in de magnetron. Stuk handiger dan altijd maar uitkoken in de stampotpan. Dat laatste werkt trouwens wel ook gewoon prima.|
 |Eerste voeding | Ja | Ja | Niks zo handig om sowieso, voor de geboorte, een paar kleine mini zakjes voeding 1 in huis hebt. Stel, het borstvoeden wil niet dan kun je in ieder geval je baby eten geven. En ze komen dus ook in kleine verpakkingen zodat je niet meteen met die enorme doos zit|
 |Wandelwagen| Ja | Ja | De wereld van wandelwagens is echt bizar. Sta niet raar te kijken als je zomaar 1200 euro moet betalen als je die nieuw koopt. Nieuw kopen slaat natuurlijk nergens op en marktplaats staat ramvol met die dingen. Ze slijten ook bijna niet, dus voor een paar honderd euro heb je een super mooie. Wij kochten er 1 voor 50 euro. Zaken om nog over na te denken zijn opvouwbaarheid (past hij in je kleine hatchback?), tot welke leeftijd geschikt en all terrain banden. Wij waren bijzonder gelukkig met onze all terrain driewieler die ook over het strand het prima deed. Nadeel was wel dat hij vrij lomp in de auto was. Merken met all terrain versies zijn Thule, Mountain buggy en Easy walker. Ook handig is om er voor te zorgen dat er een adapater te koop is zodat je maxi cosi op de wandelwagen gezet kan worden. Dat wil je.|
@@ -76,7 +76,7 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |Cosleeper | Nee | Ja | Een coosleeper is een soort bedje dat op hoogte instelbaar is en naast je bed (op klossen) kan staan. Dat is mega handig als je snachts wilt voeden of er ff een speen in wil doen als ie loopt te huilen |
 |Kolfapparaat | Nee | Nee | Afhankelijk hoe en wat je gaat doen met voeden. Handig om te weten is dat je kolfapparaten kan huren bij het ziekenhuis/zorg instellingen en die werken mega goed maar zijn lomp. De gene die je zelf kan kopen werken minder hard, maar zijn wel weer ook in mobiele versie beschikbaar met batterijen.|
 |Maxi cosi| Ja| Ja| Welke je moet hebben weet ik niet maar cosumentenbond, anwb en ADAC hebben ieder jaar heel veel testen. Zaken om even over te denken zijn hoe ze bevestigd worden. Gordel of een inmense permanente base. Gordel is prima en makkelijker dan ze je doen voorkomen. Ook kun je kijken hoe lang een kind erin kan. Voor je het weet moet je om de 6 maanden weer iets anders hebben omdat ze eruit groeien. Goedkopere maxi cosi's zijn vrij zwaar. De nieuwere  bestaan uit 2 delen en zijn mega licht. Dat zag er super handig uit. Een maxi cosi kan waarschijnlijk ook prima tweedehands maar is wel iets spannender. Je weet niet of er iets mee gebeurd is en het gaat wel over veiligheid. Er zijn trouwens handige hoezen te koop voor de maxi cosi om hem een beetje proper te houden.|
-|Ledikant| Ja| Nee | Een ledikantje, of een babybed. Wat is er over te schrijven. Vaak zwerven die wel in de familie rond. Wel handig is als ze op verschillende hoogtes kunnen (voor oudere babies) en op een gegeven moment er een spijltje uitkan zodat ze er zelf uit kunnen klimmen.|
+|Ledikant| Ja| Nee | Een ledikantje, of een babybed. Wat is er over te schrijven. Vaak zwerven die wel in de familie rond. Wel handig is als ze op verschillende hoogtes kunnen (voor oudere babies) en op een gegeven moment er een spijltje uit kan zodat ze er zelf uit kunnen klimmen.|
 |Nestje| Nee | Nee | Een babynestje is een soort kussen waarin je baby lekker veilig kan liggen. Mega handig, kost je niks. Ook handig bij visite, je kan overal je baby ff kwijt. Baby slaapt er ook goed in. Schijnt dat je er dan wel bij moet blijven, maar dat moet je zelf maar even afwegen.|
 |Hydrofielen x20|Ja|Ja|Koop er maar gewoon zoveel je kwijt kan. Die dingen gebruik je voor alles. Als je denkt, huh, dat is toch gewoon een soort theedoek? Dat klopt, maar ze nemen beter vocht op en zijn wat zachter aan de billetjes.|
 |Luieremmer|Nee|Nee|Vieze luiers stinken. In het begin valt het mee, na een maand of 6 wordt het steeds erger en na 2 jaar is het niet te harden. Die wil je dus een beetje afgesloten weggooien. Je hebt hele sjieke die volautomatisch open gaan, wij deden het gewoon met een klassieke emaille emmer uit de kringloop. Werkte ook prima. Doe er wel ff een vuilniszakje in.|
@@ -95,7 +95,7 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |Melk|Ja|Zonder melk, gaat de baby niet lekker. Kruidvat melk is prima en de helft zo goedkoop als Nutrilon.|
 |Sudocreme|Ja|Poep en plas de hele dag op je billen. Dat gaat niet lekker samen. Die billen worden rood en doen dus pijn. Smeren smeren smeren. Niet te dik, dan werkt het niet goed. Eventueel goed te combineren met Talkpoeder trouwens. (eerst talkpoeder, dan sudocreme)|
 |Talkpoeder|Ja|Zie boven|
-|Vitamine D|Ja|Vitaminde D is vitamine D. Koop dus gewoon de mega cheapo van de kruidvat.|
+|Vitamine D|Ja|Vitamine D is vitamine D. Koop dus gewoon de mega cheapo van de Kruidvat.|
 
 ## Baby-huilt-stappenplan
 
@@ -113,7 +113,7 @@ Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoo
 |Boertjes|Burp. Boertjes zitten klem en dat vinden ze niet fijn. |
 |Wiegen| Zo oud als de weg naar Rome, maar in slaap wiegen is een klassieke truc! Niet alle babies houder er echter van|
 |Op schoot zitten| Beetje rechtop rustig zitten is ook heel relaxt! Soms vallen ze dan vanzelf in slaap|
-|Met rust laten| Duurde even voordat de redactie dit door had, maar de baby kan ook huilen omdat hij er helemaal klaar mee is en met rust gelaten wil worden. Leg hem gewoon neer in zijn bed en blijf van hem af. Wordt hij soms vanzelf rustig en gaat gewoon slapen. Heb je voor Jan lul uren zitten wiegen.|
+|Met rust laten| Duurde even voordat de redactie dit door had, maar de baby kan ook huilen omdat hij er helemaal klaar mee is en met rust gelaten wil worden. Leg hem gewoon neer in zijn bed en blijf van hem af. Wordt hij soms vanzelf rustig en gaat gewoon slapen. Heb je voor Jan Lul uren zitten wiegen.|
 
 ### Minder voorkomend
 
