@@ -14,6 +14,9 @@
     },
     {
       "pattern": ".local"
+    },
+    {
+      "pattern": ".ics"
     }
   ],
   "aliveStatusCodes": [0, 200, 206, 400, 403]
