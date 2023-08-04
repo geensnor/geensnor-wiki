@@ -56,3 +56,29 @@ Als je nieuwe spullen wilt ga je tegenwoordig meestal even online kijken. Er zij
 | [Wagenberg tweewielers](https://www.wagenberg2-wielers.nl/)                  | Matig                                                                                         |
 | [Hopmans Fietsgigant](https://www.hopmansfietsgigant.nl/)                    | -                                                                                             |
 | [Trek Bicycle Nijmegen](https://www.trekbikes.com/nl/nl_NL/retail/nijmegen/) | Positief. Hebben verstand van zaken en hebben ooit een hardnekkige tik uit m'n fiets gekregen |
+
+## Podcasts (algemeen fiets geleuter)
+
+| Naam                | Spotify URL |
+| ------------------- | -----|
+| Live slow ride Fast | https://open.spotify.com/show/0M7Mo3pN1Hcc5ImqHP20H4?si=c5fc65cd6c574f77 |
+| Tweewielers | https://open.spotify.com/show/13NTOdiJnFhKELDRsc2Vwp?si=df6aa402640f4786 |
+| Mapmeisters | https://open.spotify.com/show/0PfVYVOnbpkUGcE6AzdhaS?si=4a3868ae97bf4a2d |
+| Arriere de la Course | https://open.spotify.com/show/6SENlEV4OethC7eJXVrkFL?si=c0efe6d10e0d4413 |
+| Cycloworld de Podcast | https://open.spotify.com/show/2PxYtrq6yG6QDNpRw1cBX5?si=9f424233e7c044e6 |
+| Fiets.nl Podcast | https://open.spotify.com/show/3dxBHo0GksyNh1VqfRhda5?si=9433a261ca37405a |
+| De Muur | https://open.spotify.com/show/0cY7S6J0lQTCagD7m5ryZt?si=d1b61b0fcd2041f0 |
+| De Grote Plaat | https://open.spotify.com/show/5phdiF9biXCsdSpPO5Ce9Y?si=828c6652fde14f4b |
+
+## Podcasts (koersen en sport)
+
+| Naam                 | Spotify URL                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| De Rode Lantaarn     | https://open.spotify.com/show/0AGEanO6N0QbwRdxOhJ2tP?si=67c3a5b7b49d4140 |
+| Kop over Kop         | https://open.spotify.com/show/4xFZVDkM4km3nxRcCRW9Wh?si=154d1cdb7c7b4789 |
+| Sporza Koers         | https://open.spotify.com/show/5jqb9GTbVlygb5Bwk5AOXG?si=0e5618b745ec481b |
+| Wieler Revue Podcast | https://open.spotify.com/show/05evq9wG9Ad2zZ7Fq04FC2?si=107f94c1e8424203 |
+| WielerFlits Podcast  | https://open.spotify.com/show/2lxwy5htRAOfPd5LXlNeLy?si=5688efa42d2a4fc4 |
+| In het Wiel          | https://open.spotify.com/show/2Ji1foe86IVZLjlu2tNEs3?si=d7003d1e8d984e34 |
+| De Kopgroep          | https://open.spotify.com/show/2YxkKyci9oDAXe3eD854df?si=ff6af288a83c408d |
+
