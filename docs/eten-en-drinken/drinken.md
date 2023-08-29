@@ -27,6 +27,12 @@ parent: Eten en drinken
 | **Il Poggiarello** ‘Perticato Beatrice Quadri’ Malvasia | Malvasia           | Italië, Emilia-Romagna | [wijnbeurs.nl](https://www.wijnbeurs.nl/il-poggiarello-perticato-beatrice-quadri-malvasia) | Beste witte wijn van Italië volgens Luca Maroni. Heerlijk fris. Tikje mineraal.                                                                                                                                |
 | **Lista Negra** Premium Reserve Blend Branco 2018       | Arinto, Chardonnay | Portugal, Setubal      | [grapedistrict](https://www.grapedistrict.nl/lista-negra-reserve.html)                     | Winnaar bij blindproeverij in het Parool waar ze lekkere wijn voor bij de hutspot zochten. Zal allemaal wel, maar ik vind het een super lekkere wijn met flink wat diepgang. Je proeft de eikenhouten rijping. |
 
+### Rood
+
+| Naam                              | Druif  | Herkomst   | URL                                                          | Toelichting                                                  |
+| --------------------------------- | ------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Salentein Barrel Selection Malbec | Malbec | Argentinië | [Salenteinshop](https://www.salenteinshop.nl/salentein-barrel-selection-malbec-6506#) | Lekker rood wijntje. Net wat meer diepgang dan normaal maar toch geschikt voor groter publiek. |
+
 ## Bier
 
 | Naam         | Brouwerij | URL                                                                   | Toelichting                                                                                                                    |
