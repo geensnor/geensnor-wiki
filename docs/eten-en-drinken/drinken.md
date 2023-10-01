@@ -29,9 +29,10 @@ parent: Eten en drinken
 
 ### Rood
 
-| Naam                              | Druif  | Herkomst   | URL                                                          | Toelichting                                                  |
-| --------------------------------- | ------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Salentein Barrel Selection Malbec | Malbec | Argentinië | [Salenteinshop](https://www.salenteinshop.nl/salentein-barrel-selection-malbec-6506#) | Lekker rood wijntje. Net wat meer diepgang dan normaal maar toch geschikt voor groter publiek. |
+| Naam                              | Druif       | Herkomst   | URL                                                          | Toelichting                                                  |
+| --------------------------------- | ----------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Salentein Barrel Selection Malbec | Malbec      | Argentinië | [Salenteinshop](https://www.salenteinshop.nl/salentein-barrel-selection-malbec-6506#) | Lekker rood wijntje. Net wat meer diepgang dan normaal maar toch geschikt voor groter publiek. |
+| Ramon Bilbao Rioja Crianza 2019   | Tempranillo | Spanje     | [voordeelwijnen](https://www.voordeelwijnen.nl/ramon-bilbao-rioja-crianza) | Een Crianza (dus minstens twee jaar gerijpt, met een minimum van zes maanden op eikenhouten vaten). Lekker hoor! Tikkie zuurtje maar lekker dat houtgerijpte erin. Wel wat sterk. |
 
 ## Bier
 
