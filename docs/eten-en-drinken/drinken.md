@@ -42,6 +42,13 @@ parent: Eten en drinken
 | Weide        | Nevel     | [nevel.org](https://nevel.org/product/weide-3/)                       | Bitter bier met lokale Spalter hop. Niet te zurig. Heerlijk fris. Lekkerste van Nevel en dat wil wat zeggen.                   |
 | Zappes Sport | Zappes    | [zappes-broi.de](https://www.zappes-broi.de/collections/zappes-sport) | Aardig lekker alcohol vrij pils. Gedronken toen ik erg dorstig was, dus wellicht was m'n beoordelingsvermogen iets vertroebeld |
 
+## Whisky
+
+| Naam | Toelichting |
+|-----|----|
+|Säntis Malt - Himmelberg| Whisky uit Zwitserland. Weer eens wat anders. Gerijpt op portvaten en dat proef je!|
+|Kavalan - Classic Single Malt|Taiwan staat meer bekend om z'n chips dan om z'n whisky's, maar dat betekent niet dat het rommel is. Deze destileerder heeft in 2015 zelfs 's werelds beste Single Malt Whisky gemaakt. Dat is trouwens niet deze whisky...|
+
 ## Overig
 
 | Wat                 | Naam   | URL                 | Toelichting                               |
