@@ -48,6 +48,7 @@ parent: Eten en drinken
 |-----|----|
 |Säntis Malt - Himmelberg| Whisky uit Zwitserland. Weer eens wat anders. Gerijpt op portvaten en dat proef je!|
 |Kavalan - Classic Single Malt|Taiwan staat meer bekend om z'n chips dan om z'n whisky's, maar dat betekent niet dat het rommel is. Deze destileerder heeft in 2015 zelfs 's werelds beste Single Malt Whisky gemaakt. Dat is trouwens niet deze whisky...|
+|Knockando 12 jaar|Lichte rooksmaak. Toegankelijk, allemansvriend, doordrinker|
 
 ## Overig
 
