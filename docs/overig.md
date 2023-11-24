@@ -19,6 +19,10 @@ title: Overig
 |Messenslijper voor op reis|Victorinox Dual-Knive sharpener | [Victorinox.com](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Accessories/Dual-Knife-Sharpener/p/4.3323?mt_load=gt30)| Perfecte messenslijper die ook nog eens handig op reis mee kan. Zo fijn dat hij inmiddels mijn grotere slijper ook verdrongen heeft.|
 | Stadsfiets | Azor | [azor.nl](https://www.azor.nl) | Stevigste fiets die mijn fietsenmaker verkoopt, volgens mijn fietsenmaker. Wordt in Hoogeveen in elkaar gezet. |
 
+## Geensnor Telegram Stickerpack
+
+[https://t.me/addstickers/geensnor](https://t.me/addstickers/geensnor)
+
 ## Jekyll problemen na macOS upgrade
 
 Misschien hoort dit niet echt hier, maar ik wet wel ergens laten omdat het me wel wat uitzoekwerk heeft gekost. Na de OS upgrade van macOS naar Monterey was m'n Jekyll installatie naar de maan.
