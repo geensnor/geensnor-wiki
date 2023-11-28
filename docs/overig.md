@@ -18,6 +18,7 @@ title: Overig
 |Draadlopze oordopjes|QCY T4, maar ook ander types van QCY waarschijnlijk|[qcy.nl](https://www.qcy.nl/nl/draadloze-oortjes/)|Zie [artikel](/draadloze-oordopjes-voor-de-kleine-beurs/). Fijne oordopjes voor weinig.|
 |Messenslijper voor op reis|Victorinox Dual-Knive sharpener | [Victorinox.com](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Accessories/Dual-Knife-Sharpener/p/4.3323?mt_load=gt30)| Perfecte messenslijper die ook nog eens handig op reis mee kan. Zo fijn dat hij inmiddels mijn grotere slijper ook verdrongen heeft.|
 | Stadsfiets | Azor | [azor.nl](https://www.azor.nl) | Stevigste fiets die mijn fietsenmaker verkoopt, volgens mijn fietsenmaker. Wordt in Hoogeveen in elkaar gezet. |
+| Carbon steel pan| BK Black Steel | Super fijne betaalbare pannen van BK. Geen gore pfas pannen meer voor ons, leve gewoon staal! En nog beter, hoe vaker je de pan gebruikt, hoe beter hij wordt. En een stuk goedkoper dan debuyer|
 
 ## Geensnor Telegram Stickerpack
 
