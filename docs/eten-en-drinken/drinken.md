@@ -12,7 +12,9 @@ parent: Eten en drinken
 | Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com)                                             | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. Niet alles van moyee is trouwens te hachelen, het meeste zelfs niet. |
 | Koffie bonen | Perla Superiore Kenia bonen                  | [Perla kenia](https://www.ah.nl/producten/product/wi161542/perla-superiore-kenia-bonen) | Goed betaalbare super lekkere bonen van de appie. Lekker mild met een fruitje.                                                                                                                                                                                                                                                                                                                 |
 
-Koffiezetten doe je natuurlijk met een Moccamaster. Dat is evident. Een aeropress is ook lekker, maar het is altijd ff pielen met de verhoudingen. Wij hebben goede ervaringen met 20 gram koffie en 340 gramm water. Dat maakt tesamen ong. 298 gram lekker warme koffie. Je doet dit trouwens handig door de hele aeropress toren op de weegschaal te zetten en vanaf daar te werken.
+### Aeropress
+
+Koffiezetten doe je natuurlijk met een Moccamaster. Dat is evident. Een aeropress is ook lekker, maar het is altijd ff pielen met de verhoudingen. Wij hebben goede ervaringen met 20 gram koffie en 340 gram water. Dat maakt tesamen ong. 298 gram lekker warme koffie. Je doet dit trouwens handig door de hele aeropress toren op de weegschaal te zetten en vanaf daar te werken.
 
 ## Wijn
 
