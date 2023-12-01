@@ -19,6 +19,7 @@ parent: Wielrennen
 | Bandenspanning berekenen                | Silca                   | [silcavelo.eu](https://silcavelo.eu/pages/sppc-form)         | Banden, ondergrond, gewicht. Alles heeft invloed op de perfecte bandenspanning. Bereken het eenvoudig met dit tooltje |
 | Statistieken van je Strava activiteiten | Statshunters            | [statshunters.com](https://www.statshunters.com)             | Strava biedt natuurlijk al wel wat statistieken, maar Statshunters gaat nog wat verder. Headmaps, badges, de hele bende.... |
 | Wel of geen spacer?                     |                         | [Plaatje](84052-largest_Cassette_Chart_2013_Rev3.png) | Moet je nou wel...of geen spacer bij de 10/11/12 speed casette op je sram, campo of shimano groepje? Een mooi overzichtje geeft antwoord! |
+|Overzicht van tourtochten|Fietssport.nl|[https://www.fietssport.nl/toertochten](https://www.fietssport.nl/toertochten)||
 
 ## Eten en drinken tips
 
