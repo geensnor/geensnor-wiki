@@ -1,7 +1,5 @@
 ---
-
 title: Activiteiten
-
 ---
 
 # Activiteiten
@@ -9,6 +7,22 @@ title: Activiteiten
 Je bent met een groep en je hebt niks te doen. Geensnor verzamelt een leuke lijst van activiteiten om te doen, inclusief alle benodigheden.
 
 ## Voor op het werk
+
+### Twee waarheden en een leugen (kennismaking)
+
+Soms heb je een groep mensen die elkaar niet zo goed kennen, maar wel gezamelijk iets moeten gaan doen. Om elkaar beter te leren kennen, kun je het volgende doen.
+
+1. Elk persoon krijgt drie geeltjes.
+2. Hierop schrijft iedereen voor zich twee waarheden, en één leugen over zichzelf op. De truc is om de leugen zo "echt" mogelijk te laten lijken, en de waarheden juist zo "onwaarschijnlijk" mogelijk. Op die manier worden ze moeilijker te raden. Denk bijvoorbeeld aan "Ik had vroeger paars haar" of "Ik ben in Spanje geboren". Hiervoor neem je ongeveer 5 a 10 minuten. Het hoeft niet helemaal uitgeschreven te worden, paar steekwoorden zijn voldoende. 
+3. Per persoon worden de geeltjes vervolgens gepresenteerd. Iedereen vertelt dus 3 korte verhaaltjes over zichzelf.
+4. De rest van de groep kiest doormiddel van hand opsteken vervolgens de leugen. Degene die presenteert, geeft aan of het klopt.
+
+De verhalen die iemand op deze manier vertelt, zijn vaak een stuk leuker en interessanter dan als iemand gewoon over zichzelf begint te vertellen.
+
+Je kan dit spel ook nog wat tweaken door:
+- Geeltjes weg te laten en alleen te vertellen. Gaat wat sneller maar wordt rommelig bij grote groepen.
+- Eén leugen en één waarheid te doen. Sneller, minder leuk.
+- Score bij te houden van mensen die het goed raden. Is wel wat meer gedoe, maar dan heb je wel een winnaar aan het einde.
 
 ### Marshmallow Challenge (teamtraining)
 
