@@ -22,6 +22,7 @@ has_children: true
 | Darknet Diaries          | Een podcast over hackers, encryptie, datalekken, overheden en spionage. Luistert als een spannende thriller.                                                                                               | [Darknet Diaries](https://darknetdiaries.com/)                                                                         |
 | Alle geschiedenis ooit   | Leuke podcast over allerlei geschiedenis weetjes                                                                                                                                                           | [Alle geschiendenis ooit](https://vriendvandeshow.nl/allegeschiedenisooit)                                                                                                                       |
 | Beter worden             | Waar moet je op letten om beter te wielrennen? Ook interessant als je helemaal niet beter wil worden                                                                                                       | [Beter Worden](https://podcasts.apple.com/nl/podcast/beter-worden/id1574684187)                                        |
+|Ik weet je wachtwoord|[Ik weet je wachtwoord](https://ikweetjewachtwoord.nl/podcast/)|Daniel Verlaat vertelt allerlei verhalen over cybercrime.|
 
 ## YouTube
 
