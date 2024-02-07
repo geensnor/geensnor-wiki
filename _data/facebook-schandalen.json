@@ -1,4 +1,11 @@
+
 [
+    {
+    "datum": "februari 2024",
+    "schandaal": "Overheid stopt met Facebook als privacyzorgen niet weggenomen worden",
+    "bron": "RTL Nieuws",
+    "url": "https://www.rtlnieuws.nl/tech/artikel/5347915/overheid-stopt-met-facebook-als-het-privacyzorgen-niet-wegneemt"
+  }, 
 {
     "datum": "januari 2024",
     "schandaal": "Meta negeert de wens van gebruikers om consent in te trekken",
@@ -569,5 +576,12 @@
     "schandaal": "AP: Facebook overtreedt Nederlandse privacywet",
     "bron": "RTL Nieuws",
     "url": "https://www.rtlnieuws.nl/tech/artikel/3931976/facebook-overtreedt-nederlandse-privacywet"
+  },
+  {
+    "datum": "juni 2013",
+    "schandaal": "Facebook app Android lekt telefoonnummer gebruiker",
+    "bron": "nu.nl",
+    "url": "https://www.nu.nl/apps/3513301/facebook-app-android-lekt-telefoonnummer-gebruiker.html"
   }
 ]
+
