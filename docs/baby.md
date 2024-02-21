@@ -98,7 +98,7 @@ En daar is de kleine spruit. Volkomen uitgeput sta je voor je uit te staren naar
 |Talkpoeder|Ja|Zie boven|
 |Vitamine D|Ja|Vitamine D is vitamine D. Koop dus gewoon de mega cheapo van de Kruidvat.|
 
-## Baby-huilt-stappenplan
+## Baby (en peuter) huilt stappenplan
 
 Je baby huilt. Dat doen ze. Uiteindelijk is het bijna altijd 1 van onderstaande zaken. Houd hoop en loop het lijstje gewoon af. Lukt het niet, begin dan weer bij 1. Misschien is dat het inmiddels nu toch. En bedenk, geen van onderstaande punten blijft werken. Zodra je denkt dat je het hebt, verandert de baby en vindt hij het tegenovergestelde prettig.
 
@@ -123,6 +123,7 @@ Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoo
 |Licht/donker| Sommige babies zijn gevoelig voor omgeving. Te licht of juist te donker. Speel hier mee en denk bijvoorbeeld aan een babyfoon met sterrenprojectie, nachtlampje, Lamp in de gang, gordijn open of dicht, juist heel donker maken, etc|
 |Geluid en muziek| Ook geluid is belangrijk. Sommige babies gaan heel goed op rumoer, andere willen juist absolute rust en stilte.  Wij hebben goede ervaringen met brown noise/white noise op Spotify. Maar ook daar kan hij opeens klaar mee zijn. Ook mogelijk effectief is lichte pianomuziek, bijvoorbeeld de playlist baby sleep op Spotify. Sommige babyfoons spelen ook rustige deuntjes die goed kunnen werken.
 |Aanwezigheid ouder|Soms wil de baby dat je er bij blijft, soms moet je oprotten. Speel daarmee. |
+|Ik ben 2 en ik zeg nee| En dan is de baby opeens een heel mensje. Staat, praat en heeft een mening. En dat is irritant want dan willen ze altijd iets anders dan jij, waaronder dus ook niet slapen. Eindeloos gezeur als resultaat. Ze willen constant iets nieuws (knuffel, dekentje, melk, mama, papa, licht aan, licht uit, weet ik veel wat) en ze doen het erom. Dit vergt een grote mate van creativiteit van de jonge ouder. Consequent zijn, zonder boos te worden. Want oei oei oei wat een tere zieltjes zijn het nog en als je te boos wordt ben je vaak nog verder van huis en gaan ze helemaal loco. De redactie wenst je sowieso veel sterkte toe in deze periode. Zorg voor een gezellige veilige sfeer en wees consequent en vrolijk. En, wellicht niet heel correct, de peuter is nog niet het scherpste mes in de la en zijn dus eenvoudig om te tuin te leiden. Ze even rustig neerleggen met de mededeling dat je echt zo even die andere knuffel voor ze gaat zoeken beneden, en daar vervolgens een uur over doen, werkt meestal erg goed. Liggen ze toch even rustig en vallen vanzelf in slaap :)|
 
 ## Vakantie
 
