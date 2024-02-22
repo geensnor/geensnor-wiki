@@ -31,3 +31,15 @@ has_children: true
 | Stewart Hicks       | Stewart vertelt over architectuur. Hij is Associate Professor in Chicago dus hij weet er wel wat van. | [https://www.youtube.com/user/stewarthicks](https://www.youtube.com/user/stewarthicks)     |
 | Great Art Explained | De verhalen achter bekende kunstwerken.                                                               | [https://www.youtube.com/c/GreatArtExplained](https://www.youtube.com/c/GreatArtExplained) |
 | Aquaholic           | Engelse kerel loopt door mega grote jachten heen.                                                     | [https://www.youtube.com/c/AQUAHOLIC](https://www.youtube.com/c/AQUAHOLIC)                 |
+
+### Youtubers die dingen maken
+
+Heerlijk om naar mensen te kijken die lekker heen rommelen.
+
+| Kanaal | Wat wordt er gemaakt?|
+|-----|-|
+|[Ivan Miranda](https://www.youtube.com/@ivanmirandawastaken)|Veel grote 3D print dingen. Aanrader is de marble clock|
+|[rctestflight](https://www.youtube.com/@rctestflight)|Afstandsbedienbare boten, vliegtuigen en van alles wat erop lijkt.|
+|[Brick Crafts](https://www.youtube.com/@Brick_Crafts)|Lego steden. Erg rustgevend.|
+|[Colin Furze](https://www.youtube.com/@colinfurze)|De OG. Veel voertuigen, lassen, vuur. En natuurlijk de laatste jaren graaft hij allemaal tunnels onder z'n huis|
+|[Stuff Made Here](https://www.youtube.com/@StuffMadeHere)|Enorme nerd. Maakt leuke dingen icm software.|
