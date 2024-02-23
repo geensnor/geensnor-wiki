@@ -1,27 +1,14 @@
-name: Rewrite YouTube URLs
-
-on:
-  push:
-    branches:
-      - rewriteurl 
-      
+name: rewrite urls youtube
+on: [push, pull_request]
 jobs:
-  rewrite-urls:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: |
-          npm install -g markdown-link-check
-          npm install -g replace-in-files-cli
-
-      - name: Rewrite YouTube URLs
-        run: |
-          # Replace YouTube URLs in Markdown file
-          replace-in-files --from 'https://www.youtube.com/' --replacement 'https://www.yout-ube.com/' --isRegex --recursive .
-
-          # Verify links in the Markdown file
-          markdown-link-check -c .markdown-link-check.json
+      - uses: actions/checkout@v2
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "youtube.com"
+          replace: "yout-ube.com"
+          include: "docs/**"
+          regex: true
