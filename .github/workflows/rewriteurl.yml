@@ -16,12 +16,12 @@ jobs:
       - name: Install dependencies
         run: |
           npm install -g markdown-link-check
-          npm install -g replace-in-file-cli
+          npm install -g replace-in-files-cli
 
       - name: Rewrite YouTube URLs
         run: |
           # Replace YouTube URLs in Markdown file
-          replace-in-file --from 'https://www.youtube.com/' --to 'https://www.yout-ube.com/' --isRegex --recursive .
+          replace-in-files --from 'https://www.youtube.com/' --to 'https://www.yout-ube.com/' --isRegex --recursive .
 
           # Verify links in the Markdown file
           markdown-link-check -c .markdown-link-check.json
