@@ -21,7 +21,7 @@ jobs:
       - name: Rewrite YouTube URLs
         run: |
           # Replace YouTube URLs in Markdown file
-          replace-in-files --from 'https://www.youtube.com/' --to 'https://www.yout-ube.com/' --isRegex --recursive .
+          replace-in-files --from 'https://www.youtube.com/' --replacement 'https://www.yout-ube.com/' --isRegex --recursive .
 
           # Verify links in the Markdown file
           markdown-link-check -c .markdown-link-check.json
