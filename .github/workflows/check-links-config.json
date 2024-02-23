@@ -19,5 +19,5 @@
       "pattern": ".ics"
     }
   ],
-  "aliveStatusCodes": [0, 200, 206, 400, 403]
+  "aliveStatusCodes": [0, 200, 206, 400, 403, 429]
 }
