@@ -17,6 +17,7 @@ parent: Software en hardware
 |KeePassium|Keepass wachtwoord bestand openen|iOS|[keepassium.com](https://keepassium.com/)|Prima client zonder reclame of gezeur dat je naar "pro" moet upgraden.|
 |StarUML|UML tool|mac/windows|[staruml.io](https://staruml.io/)|Voor als je wilt UML-en. Evaluatieversie is eindeloos te gebruiken zonder kosten.|
 |Organic Maps|Kaarten en navigatie|iOS en Android|[organicmaps.app](https://organicmaps.app/)|Erg fijne kaarten app voor als je meer detail wil zien. Kaarten zijn veel beter dan bijvoorbeeld die van Google Maps. Je kan ze bovendien ook gratis downloaden dus je hebt niet perse een internetverbinding nodig. Er zit ook navigatie in, maar die moet je even vergeten...|
+|NetNewsWire|RSS lezer| macOS en iOS|[netnewswire.com](https://netnewswire.com/)|Prima Open Source RSS lezer. Synct met Feedly en andere platforms|
 
 ## Web tools
 
