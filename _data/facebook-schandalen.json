@@ -1,29 +1,34 @@
-
 [
-    {
+  {
+    "datum": "maart 2024",
+    "schandaal": "Consumentenbond start massaclaim na zonder toestemming verzamelen van gegevens.",
+    "bron": "nu.nl",
+    "url": "https://www.nu.nl/tech/6303483/consumentenbond-start-massaclaim-tegen-facebook-en-instagram.html"
+  },
+  {
     "datum": "februari 2024",
     "schandaal": "Overheid stopt met Facebook als privacyzorgen niet weggenomen worden",
     "bron": "RTL Nieuws",
     "url": "https://www.rtlnieuws.nl/tech/artikel/5347915/overheid-stopt-met-facebook-als-het-privacyzorgen-niet-wegneemt"
-  }, 
-{
+  },
+  {
     "datum": "januari 2024",
     "schandaal": "Meta negeert de wens van gebruikers om consent in te trekken",
     "bron": "noby",
     "url": "https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent"
-  }, 
-    {
+  },
+  {
     "datum": "december 2023",
     "schandaal": "Meta censureert pro-palastina content",
     "bron": "The Guardian",
     "url": "https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report"
-  }, 
+  },
   {
     "datum": "november 2023",
     "schandaal": "Meta aasde op data van minderjarige gebruikers",
     "bron": "Tweakers.net",
     "url": "https://tweakers.net/nieuws/215982/amerikaanse-staten-meta-aasde-op-data-van-minderjarige-gebruikers.html"
-  },  
+  },
   {
     "datum": "oktober 2023",
     "schandaal": "33 Amerikaanse staten klagen Meta aan voor verslaafd maken jeugd",
@@ -584,4 +589,3 @@
     "url": "https://www.nu.nl/apps/3513301/facebook-app-android-lekt-telefoonnummer-gebruiker.html"
   }
 ]
-
