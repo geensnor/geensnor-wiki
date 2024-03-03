@@ -26,4 +26,4 @@ Spelletjes. Altijd leuk.
 |Settlers 2 achtige RTS game|[widelands.org](https://www.widelands.org)|
 |Red Alert achtige RTS game|[openra.net](https://www.openra.net)|
 |Total Anahilation achtige RTS game. Zie er erg uitgebreid en netjes uit. Helaas geen Mac versie|[beyondallreason.info](https://www.beyondallreason.info)|
-|Niet echt een game, maar een OSS game engine voor RTS games.. Op de site zijn zie je verschillende games die met deze engine zijn gemaakt.|[sprintrts.com](https://springrts.com)|
+|Niet echt een game, maar een OSS game engine voor RTS games. Op de site zijn zie je verschillende games die met deze engine zijn gemaakt.|[sprintrts.com](https://springrts.com)|
