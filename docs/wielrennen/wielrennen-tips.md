@@ -20,7 +20,7 @@ parent: Wielrennen
 | Statistieken van je Strava activiteiten | Statshunters            | [statshunters.com](https://www.statshunters.com)             | Strava biedt natuurlijk al wel wat statistieken, maar Statshunters gaat nog wat verder. Headmaps, badges, de hele bende.... |
 | Wel of geen spacer?                     |                         | [Plaatje](84052-largest_Cassette_Chart_2013_Rev3.png) | Moet je nou wel...of geen spacer bij de 10/11/12 speed casette op je sram, campo of shimano groepje? Een mooi overzichtje geeft antwoord! |
 |Overzicht van tourtochten|Fietssport.nl|[https://www.fietssport.nl/toertochten](https://www.fietssport.nl/toertochten)||
-|Core -stability schema | Schema trainen core-stability (rompstabiliteit) voor wielrenners (PDF) | [PDF](https://www.sportzorg.nl/_asset/_public/Files/Schema-trainen-core-stability-rompstabiliteit-voor-wielrenners.pdf) | Handig schema om aan je core stabiliteit te werken. Die is belangrijk voor wielrennen en zorgt ervoor dat je o.a niet te veel op je stuur gaat hangen of je nek omhoog moet houden. | 
+|Core -stability schema | Schema trainen core-stability (rompstabiliteit) voor wielrenners (PDF) | [PDF](https://www.sportzorg.nl/_asset/_public/Files/Schema-trainen-core-stability-rompstabiliteit-voor-wielrenners.pdf) | Handig schema om aan je core stabiliteit te werken. Die is belangrijk voor wielrennen en zorgt ervoor dat je o.a niet te veel op je stuur gaat hangen of je nek omhoog moet houden. |
 
 ## Eten en drinken tips
 
@@ -64,24 +64,23 @@ Als je nieuwe spullen wilt ga je tegenwoordig meestal even online kijken. Er zij
 
 | Naam                | Spotify URL |
 | ------------------- | -----|
-| Live slow ride Fast | https://open.spotify.com/show/0M7Mo3pN1Hcc5ImqHP20H4?si=c5fc65cd6c574f77 |
-| Tweewielers | https://open.spotify.com/show/13NTOdiJnFhKELDRsc2Vwp?si=df6aa402640f4786 |
-| Mapmeisters | https://open.spotify.com/show/0PfVYVOnbpkUGcE6AzdhaS?si=4a3868ae97bf4a2d |
-| Arriere de la Course | https://open.spotify.com/show/6SENlEV4OethC7eJXVrkFL?si=c0efe6d10e0d4413 |
-| Cycloworld de Podcast | https://open.spotify.com/show/2PxYtrq6yG6QDNpRw1cBX5?si=9f424233e7c044e6 |
-| Fiets.nl Podcast | https://open.spotify.com/show/3dxBHo0GksyNh1VqfRhda5?si=9433a261ca37405a |
-| De Muur | https://open.spotify.com/show/0cY7S6J0lQTCagD7m5ryZt?si=d1b61b0fcd2041f0 |
-| De Grote Plaat | https://open.spotify.com/show/5phdiF9biXCsdSpPO5Ce9Y?si=828c6652fde14f4b |
+| Live slow ride Fast | [Live slow ride fast](https://open.spotify.com/show/0M7Mo3pN1Hcc5ImqHP20H4?si=c5fc65cd6c574f77) |
+| Tweewielers | [Tweewielers](https://open.spotify.com/show/13NTOdiJnFhKELDRsc2Vwp?si=df6aa402640f4786) |
+| Mapmeisters | [Mapmeisters](https://open.spotify.com/show/0PfVYVOnbpkUGcE6AzdhaS?si=4a3868ae97bf4a2d) |
+| Arriere de la Course | [Arriere de la course](https://open.spotify.com/show/6SENlEV4OethC7eJXVrkFL?si=c0efe6d10e0d4413) |
+| Cycloworld de Podcast | [Cycloword de podcast](https://open.spotify.com/show/2PxYtrq6yG6QDNpRw1cBX5?si=9f424233e7c044e6) |
+| Fiets.nl Podcast | [Fiets.nl](https://open.spotify.com/show/3dxBHo0GksyNh1VqfRhda5?si=9433a261ca37405a) |
+| De Muur | [De Muur](https://open.spotify.com/show/0cY7S6J0lQTCagD7m5ryZt?si=d1b61b0fcd2041f0) |
+| De Grote Plaat | [De grote plaat](https://open.spotify.com/show/5phdiF9biXCsdSpPO5Ce9Y?si=828c6652fde14f4b) |
 
 ## Podcasts (koersen en sport)
 
 | Naam                 | Spotify URL                                                  |
 | -------------------- | ------------------------------------------------------------ |
-| De Rode Lantaarn     | https://open.spotify.com/show/0AGEanO6N0QbwRdxOhJ2tP?si=67c3a5b7b49d4140 |
-| Kop over Kop         | https://open.spotify.com/show/4xFZVDkM4km3nxRcCRW9Wh?si=154d1cdb7c7b4789 |
-| Sporza Koers         | https://open.spotify.com/show/5jqb9GTbVlygb5Bwk5AOXG?si=0e5618b745ec481b |
-| Wieler Revue Podcast | https://open.spotify.com/show/05evq9wG9Ad2zZ7Fq04FC2?si=107f94c1e8424203 |
-| WielerFlits Podcast  | https://open.spotify.com/show/2lxwy5htRAOfPd5LXlNeLy?si=5688efa42d2a4fc4 |
-| In het Wiel          | https://open.spotify.com/show/2Ji1foe86IVZLjlu2tNEs3?si=d7003d1e8d984e34 |
-| De Kopgroep          | https://open.spotify.com/show/2YxkKyci9oDAXe3eD854df?si=ff6af288a83c408d |
-
+| De Rode Lantaarn     | [De Rode lantaarn](https://open.spotify.com/show/0AGEanO6N0QbwRdxOhJ2tP?si=67c3a5b7b49d4140) |
+| Kop over Kop         | [Kop over Kop](https://open.spotify.com/show/4xFZVDkM4km3nxRcCRW9Wh?si=154d1cdb7c7b4789) |
+| Sporza Koers         | [Sporza Koers](https://open.spotify.com/show/5jqb9GTbVlygb5Bwk5AOXG?si=0e5618b745ec481b) |
+| Wieler Revue Podcast | [Wieler Revue Podcast](https://open.spotify.com/show/05evq9wG9Ad2zZ7Fq04FC2?si=107f94c1e8424203) |
+| WielerFlits Podcast  | [Wielerflits Podcast](https://open.spotify.com/show/2lxwy5htRAOfPd5LXlNeLy?si=5688efa42d2a4fc4) |
+| In het Wiel          | [In het wiel](https://open.spotify.com/show/2Ji1foe86IVZLjlu2tNEs3?si=d7003d1e8d984e34) |
+| De Kopgroep          | [De kopgroep](https://open.spotify.com/show/2YxkKyci9oDAXe3eD854df?si=ff6af288a83c408d) |
