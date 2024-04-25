@@ -18,6 +18,7 @@ parent: Software en hardware
 |StarUML|UML tool|mac/windows|[staruml.io](https://staruml.io/)|Voor als je wilt UML-en. Evaluatieversie is eindeloos te gebruiken zonder kosten.|
 |Organic Maps|Kaarten en navigatie|iOS en Android|[organicmaps.app](https://organicmaps.app/)|Erg fijne kaarten app voor als je meer detail wil zien. Kaarten zijn veel beter dan bijvoorbeeld die van Google Maps. Je kan ze bovendien ook gratis downloaden dus je hebt niet perse een internetverbinding nodig. Er zit ook navigatie in, maar die moet je even vergeten...|
 |NetNewsWire|RSS lezer| macOS en iOS|[netnewswire.com](https://netnewswire.com/)|Prima Open Source RSS lezer. Synct met Feedly en andere platforms|
+|UTM|Virtual machine's voor Mac| macOS | [https://mac.getutm.app/](https://mac.getutm.app/) |makkelijke, gratis, en mooie VM tool voor je mac. Geen geklooi meer met ISO's die je moet downloadden en vage settings, maar gewoon met een paar drukken op de knop je VM draaien. In de Gallery een hoop handige prebuild OS'en.|
 
 ## Web tools
 
