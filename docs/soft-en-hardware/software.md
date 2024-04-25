@@ -9,7 +9,7 @@ parent: Software en hardware
 
 |Wat|Doet wat|Platform|URL|Toelichting|
 |---|--------|--------|---|-----------|
-|Lulu|Outbound firewall voor mac|macOS|[lulu website](https://objective-see.com/products/lulu.html)|Zoals de meeste OS-en heeft ook Mac os een ingebouwde firewall. Die is echter alleen inbound. Het uitgaande verkeer kan doen en laten wat het wil. Lulu is een super licht gewicht klein appje die toestemming vraagt als een applicatie iets naar buiten wil doen. Hij vraagt eenmalig om akkoord. Werkt bijv. goed als software allemaal connecties maakt naar buiten zonder dat dat nodig is. |
+|Lulu|Outbound firewall voor mac|macOS|[lulu site](https://objective-see.com/products/lulu.html)|Zoals de meeste OS-en heeft ook macOS een ingebouwde firewall. Die is echter alleen inbound. Het uitgaande verkeer kan doen en laten wat het wil. Lulu is een super licht gewicht klein appje die toestemming vraagt als een applicatie iets naar buiten wil doen. Hij vraagt eenmalig om akkoord. Werkt bijv. goed als software allemaal connecties maakt naar buiten zonder dat dat nodig is. |
 |GrandPerspective|Omvang van bestanden en mappen visualiseren|macOS|[sourceforge.net](http://grandperspectiv.sourceforge.net/)|Gratis tool. Doet wat het moet doen.|
 |networkQuality|Netwerk tool in macOS Monterey|macOS|nvt|`networkQuality` intypen in de Terminal en krijgt de netwerkkwaliteit te zien.|
 |One Dark Theme|Fijne theme voor Visual Studio Code|nvt|[visualstudio.com](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)||
@@ -29,12 +29,12 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |Planning poker|[scrumpoker-online.org](https://www.scrumpoker-online.org/)|Planning poker tool voor bijvoorbeeld Scrum|
 |P2P Bestanden en tekst delen|[webdrop.space](https://webdrop.space/)|Soms moet je wat delen tussen verschillende apparaten die ook nog eens verschillende OS-en hebben. Werkt op je LAN zonder configuratie. Wel de browser open houden want het werkt zonder cloud!|
 |Bestanden delen|[wormhole.app](https://wormhole.app/)|Eenvoudig bestanden delen zonder gedoe. Privacy voorop.|
-|QR code voor je WiFi|[qifi.org](https://qifi.org/)|WiFi codes overtypen is irritant. Maak er een QR code van je SSID en wachtwoord en verbinden is een fluitje van een cent.|
+|QR code voor je Wi-Fi|[qifi.org](https://qifi.org/)|Wi-Fi codes overtypen is irritant. Maak er een QR code van je SSID en wachtwoord en verbinden is een fluitje van een cent.|
 |Strava synchroniseren|[tapiriik.com](https://tapiriik.com/)|Alle fietsrondes staan natuurlijk in Strava, maar het is altijd een prettig idee om ze ook zelf te hebben. Tapiriik synct ze met allerlei diensten waaronder Dropbox.|
 |Markdown editor|[writemd.xyz](https://writemd.xyz/d/60efda973be295623)|Online Makrdown editor. Geen account nodig, delen via een URL, geen kermis.|
 |Video conferencing|[jitsi.org](https://jitsi.org/)|Het aanbod is reuze, maar aan alle video conferencing opties kleven wel wat nadelen. Jitsi lijkt tot nu toe de beste. Meerdere platformen, soepeltjes en vanuit de browser. En zonder registratie!|
-|Uitzending gemist download tool|[downloadgemist.nl](https://www.downloadgemist.nl/)|Tool om TV uitzendingen van verschillende "gemist" websites te downloaden|
+|Uitzending gemist download tool|[downloadgemist.nl](https://www.downloadgemist.nl/)|Tool om TV uitzendingen van verschillende "gemist" sites te downloaden|
 |Paywalls omzeilen|[https://12ft.io](https://12ft.io), [https://1ft.io](https://1ft.io), [https://archive.ph](https://archive.ph) of [https://github.com/iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)|Ja, natuurlijk is journalistiek belangrijk en hebben ze het niet makkelijk, maar soms moet je ook gewoon heel even snel dat ene belangrijke artikel lezen...|
 |Open source office|[https://cryptpad.fr/](https://cryptpad.fr/)|Zoals bij zoveel open source software is de UI zo lelijk als de nacht, maar alles lijkt te werken. Vooral de formulieren oplossing kan erg handig zijn.|
-|Youtube downloaden| [https://cobalt.tools/](https://cobalt.tools/)|Voor als je bijvoorbeeld een leuke video wilt downloaden van youtube, of een compleet album als mp3 van youtube. Of een ander platform.|
+|YouTube downloaden| [https://cobalt.tools/](https://cobalt.tools/)|Voor als je bijvoorbeeld een leuke video wilt downloaden van YouTube, of een compleet album als mp3 van YouTube. Of een ander platform.|
 |Leren programmeren voor kinderen|[https://www.hedycode.com/](https://www.hedycode.com/)|Nederlandstalig en gratis.|
