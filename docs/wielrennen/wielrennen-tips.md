@@ -21,6 +21,7 @@ parent: Wielrennen
 | Wel of geen spacer?                     |                         | [Plaatje](84052-largest_Cassette_Chart_2013_Rev3.png) | Moet je nou wel...of geen spacer bij de 10/11/12 speed casette op je sram, campo of shimano groepje? Een mooi overzichtje geeft antwoord! |
 |Overzicht van tourtochten|Fietssport.nl|[https://www.fietssport.nl/toertochten](https://www.fietssport.nl/toertochten)||
 |Core -stability schema | Schema trainen core-stability (rompstabiliteit) voor wielrenners (PDF) | [PDF](https://www.sportzorg.nl/_asset/_public/Files/Schema-trainen-core-stability-rompstabiliteit-voor-wielrenners.pdf) | Handig schema om aan je core stabiliteit te werken. Die is belangrijk voor wielrennen en zorgt ervoor dat je o.a niet te veel op je stuur gaat hangen of je nek omhoog moet houden. |
+| Site met heel veel informatie over banden| Bicycle rolling resistance|[https://www.bicyclerollingresistance.com/](https://www.bicyclerollingresistance.com/)| Alles wat je ooit over banden hebt willen weten| 
 
 ## Eten en drinken tips
 
