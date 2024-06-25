@@ -9,7 +9,7 @@ Als het aan Erik lag, was alles beter. Onderstaand een lijst met zijn {{site.dat
 
 ---
 
-{% assign i = 1 %}
+{% assign i = 0 %}
 
 {% for woord in site.data.standpunten %}
 {% increment i %}. {{ woord | newline_to_br  }}
