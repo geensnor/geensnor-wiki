@@ -5,7 +5,7 @@ parent: Lijsten
 
 # De standpunten van Erik
 
-Als het aan Erik lag, was alles beter. Onderstaand een lijst met zijn {{site.data.woorden | size}} standpunten.
+Als het aan Erik lag, was alles beter. Onderstaand een lijst met zijn {{site.data.standpuntenvanerik | size}} standpunten.
 
 ---
 
