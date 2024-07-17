@@ -13,9 +13,9 @@ Streetview locaties! We houden mooie uitzichten bij!
     <tr>
         <th>Streetview</th>
     </tr>
-{% for streetview in site.data.streetviews %}
+    {% for location in site.data.locations %}
     <tr>
-        <td>- {{ streetview.locations.url }}</td>
+        <td>- <a href="{{ location.url }}" target="_blank">{{ location.url }}</a></td>
     </tr>
-{% endfor %}
+    {% endfor %}
 </table>
