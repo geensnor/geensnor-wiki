@@ -9,13 +9,8 @@ Streetview locaties! We houden mooie uitzichten bij!
 
 ---
 
-<table>
-    <tr>
-        <th>Streetview</th>
-    </tr>
+<ol>
     {% for location in site.data.streetviews.locations %}
-    <tr>
-        <td>- <a href="{{ location.url }}" target="_blank">{{ location.url }}</a></td>
-    </tr>
+    <li><a href="{{ location.url }}" target="_blank">{{ location.url }}</a></li>
     {% endfor %}
-</table>
+</ol>
