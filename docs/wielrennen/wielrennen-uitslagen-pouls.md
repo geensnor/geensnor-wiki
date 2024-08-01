@@ -12,6 +12,7 @@ Sinds 2022 poulen we met onze eigen poule: [https://www.geensnor.nl/tourpoule/](
 
 | jaar | ronde          | winnaar   |
 | ---- | -------------- | --------- |
+| 2024 | Tour de France | Joris     |
 | 2024 | Giro d’Italia  | Erik      |
 | 2023 | Vuelta a España| Erik      |
 | 2023 | Tour de France |Sjoerd 'Klasbak' Bisselink|
